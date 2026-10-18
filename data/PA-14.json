@@ -1,0 +1,1799 @@
+{
+  "district": "PA-14",
+  "incumbent": {
+    "name": "Guy Reschenthaler",
+    "party": "R",
+    "note": "Guy Reschenthaler has served since 2019. This app covers his House votes from 2023 on."
+  },
+  "challenger": {
+    "name": "Alan Bradstock",
+    "party": "D"
+  },
+  "pulled": "2026-10-18",
+  "topics": [
+    "Energy",
+    "Environment and Public Lands",
+    "Budget, Taxes and Economy",
+    "Banking and Finance",
+    "Crime and Justice",
+    "Government and Elections",
+    "Foreign Policy and Military",
+    "Immigration",
+    "Education and Jobs",
+    "Health and Families",
+    "Civil Rights and Culture",
+    "Technology and Infrastructure"
+  ],
+  "bills": [
+    {
+      "card": {
+        "id": "118-hr-4639",
+        "title": "Fourth Amendment Is Not For Sale Act",
+        "heading": "Government purchase of personal data from brokers",
+        "topic": "Crime and Justice",
+        "changes": "Bars law enforcement and intelligence agencies from buying customer or subscriber records from third parties, and requires a court order to obtain certain records or illegitimately obtained information. It also extends Stored Communications Act limits on disclosing stored communications to data brokers that handle communications for service providers.",
+        "supporters": {
+          "text": "Supporters say that if a government agency would need a warrant to get someone's information, it should not be able to get the same information by buying it from a data broker. They say the bill closes that route and restores Fourth Amendment protections, and note the House Judiciary Committee approved it unanimously.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-04-17/pdf/CREC-2024-04-17-pt1-PgH2459-5.pdf"
+        },
+        "opponents": {
+          "text": "Opponents say the bill bars law enforcement from paying for information that any willing buyer can purchase, with no exception, even for investigating identity theft or ransomware. They say it would limit officers' ability to assess risks before serving a warrant, and note that major police and sheriff associations oppose it.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-04-17/pdf/CREC-2024-04-17-pt1-PgH2459-5.pdf"
+        },
+        "status": "approved",
+        "yes_means": "Law enforcement and intelligence agencies should be barred from buying people's records from data brokers.",
+        "no_means": "Law enforcement and intelligence agencies should still be able to buy people's records from data brokers."
+      },
+      "incumbent_vote": "Nay",
+      "rollcall": {
+        "year": 2024,
+        "number": 136,
+        "url": "https://clerk.house.gov/evs/2024/roll136.xml"
+      },
+      "challenger": {
+        "source": "split",
+        "position": null,
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "119-hr-1346",
+        "title": "To amend the Clean Air Act with respect to the ethanol waiver for Reid Vapor Pressure under that Act, and for other purposes.",
+        "heading": "Year-round sale of 15 percent ethanol gasoline",
+        "topic": "Environment and Public Lands",
+        "changes": "Allows gasoline blended with 10 to 15 percent ethanol (E15) to be sold year-round by changing the Clean Air Act's vapor pressure limit that applies in summer. It also cuts the renewable fuel requirements of small refining companies (75,000 barrels per day or less) by 75 percent starting in 2028, and ends the existing small refinery exemption petitions after 2027, replacing them with a narrower exemption for small refineries at imminent risk of closure.",
+        "supporters": {
+          "text": "Supporters say the bill removes an outdated summer ban on E15 that the EPA has waived every year since 2011, giving farmers and retailers year-round certainty. They say it does not mandate E15, only lets retailers sell it, and that nationwide E15 would save drivers nearly $27 billion a year and raise corn demand by 2.4 billion bushels.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2026-05-13/html/CREC-2026-05-13-pt1-PgH3421.htm"
+        },
+        "opponents": {
+          "text": "Opponents say the bill threatens small refineries with closure, putting at risk the more than 5,800 workers at such refineries nationwide and at least 750 jobs in Wyoming. They say it would raise gasoline prices by an average of over 35 cents per gallon and add $3 billion or more in yearly costs for small refineries.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2026-05-13/html/CREC-2026-05-13-pt1-PgH3421.htm"
+        },
+        "status": "approved",
+        "yes_means": "E15 gasoline should be sellable year-round, and small refineries should face lower renewable fuel requirements.",
+        "no_means": "E15 gasoline should not be sellable year-round, and small refineries should keep current renewable fuel requirements."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2026,
+        "number": 164,
+        "url": "https://clerk.house.gov/evs/2026/roll164.xml"
+      },
+      "challenger": {
+        "source": "split",
+        "position": null,
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-7888",
+        "title": "Reforming Intelligence and Securing America Act",
+        "heading": "Reauthorizing foreign intelligence surveillance with FBI query limits",
+        "topic": "Foreign Policy and Military",
+        "changes": "Reauthorizes Section 702 of the Foreign Intelligence Surveillance Act, which covers collecting communications of foreign targets abroad, for two years, and bars FBI searches of that data for information on Americans without prior approval from an FBI supervisor or attorney, with exceptions such as threats to life. It does not require a warrant for those searches (a House amendment to add one failed 212 to 212), adds penalties for misconduct, and expands the definition of electronic communication service provider to cover more businesses.",
+        "supporters": {
+          "text": "Supporters say Section 702 is how the government watches adversaries such as Hamas, Hezbollah and the Chinese Communist Party, and that the bill punishes and criminalizes FBI abuses while limiting the FBI's access to the data. They say Americans' data is already protected by the Constitution, and that a warrant requirement for searches would leave the government blind to foreign recruiting inside the United States.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-04-12/pdf/CREC-2024-04-12-pt1-PgH2328.pdf"
+        },
+        "opponents": {
+          "text": "Opponents say the bill is not real reform because it does not require a probable cause warrant before the intelligence community searches the Section 702 database for Americans' private communications, which they call the constitutional equivalent of a warrantless search. They say the government broke the rules for these searches 278,000 times in 2021 alone, including searches of protesters, politicians and political donors.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-04-12/pdf/CREC-2024-04-12-pt1-PgH2328.pdf"
+        },
+        "status": "approved",
+        "yes_means": "Congress should extend Section 702 foreign surveillance for two years, with limits on FBI searches about Americans.",
+        "no_means": "Congress should not extend Section 702 foreign surveillance for two years, with limits on FBI searches about Americans."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2024,
+        "number": 119,
+        "url": "https://clerk.house.gov/evs/2024/roll119.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-1338",
+        "title": "SAT Streamlining Act",
+        "heading": "Deadlines for FCC satellite license decisions",
+        "topic": "Technology and Infrastructure",
+        "changes": "Directs the FCC to decide on satellite license applications within set deadlines: one year for new applications and major changes, 180 days for renewals, and 90 days for minor changes. It also requires FCC rules with measurable space debris objectives and requirements that satellite operators coordinate their use of spectrum and limit interference with others.",
+        "supporters": {
+          "text": "Supporters say the FCC's licensing process was built for a handful of applications and needs a statutory framework with clear deadlines. They say faster, more predictable decisions would help the United States compete with China in satellite communications, and note the bill came out of the Energy and Commerce Committee 44-0.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-25/html/CREC-2023-07-25-pt1-PgH3919.htm"
+        },
+        "opponents": {
+          "text": "Opponents say the bill goes beyond spectrum licensing by directing the FCC to write rules on space safety and orbital debris, which they say the agency lacks the expertise to do. They say the Department of Commerce is emerging as the lead agency, and that FCC rules would fragment the government's approach and duplicate its work.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-25/html/CREC-2023-07-25-pt1-PgH3919.htm"
+        },
+        "status": "approved",
+        "yes_means": "The FCC should be required to decide satellite license applications within set deadlines.",
+        "no_means": "The FCC should not be required to decide satellite license applications within set deadlines."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2023,
+        "number": 365,
+        "url": "https://clerk.house.gov/evs/2023/roll365.xml"
+      },
+      "challenger": {
+        "source": "split",
+        "position": null,
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-1631",
+        "title": "Pro Codes Act",
+        "heading": "Copyright on standards written into law",
+        "topic": "Budget, Taxes and Economy",
+        "changes": "Lets a private standards organization keep its copyright on a technical standard that a law or regulation incorporates by reference, if the organization posts the standard free online in a format that makes specific content easy to find. Anyone claiming such a standard lost its copyright for not being posted free online must prove it, and the bill orders reports from the Copyright Office and the GAO.",
+        "supporters": {
+          "text": "Supporters say standards groups pay for writing electrical, building, and fire codes by selling them, at no cost to taxpayers, and that the bill keeps that copyright in exchange for free online access to every standard a law incorporates. They say it balances copyright with public access to the law, and note the Judiciary Committee approved it 19 to 4.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-07-22/html/CREC-2024-07-22-pt1-PgH4658.htm"
+        },
+        "opponents": {
+          "text": "Opponents say the bill offers only limited access to the law: users would have to give up personal information and could not search, copy, print, or download the standards, creating a free tier and a paid tier. They say the Copyright Office told the committee courts are handling the issue appropriately, and that the bill came up without a hearing.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-07-22/html/CREC-2024-07-22-pt1-PgH4658.htm"
+        },
+        "status": "approved",
+        "yes_means": "Private groups should keep copyright on standards written into law if they post them free online.",
+        "no_means": "Private groups should not keep copyright on standards written into law even if they post them free online."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2024,
+        "number": 357,
+        "url": "https://clerk.house.gov/evs/2024/roll357.xml"
+      },
+      "challenger": {
+        "source": "split",
+        "position": null,
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hres-1102",
+        "title": "Providing for the concurrence by the House in the Senate amendment to H.R. 2882, with an amendment.",
+        "heading": "Six remaining 2024 government funding bills",
+        "topic": "Budget, Taxes and Economy",
+        "changes": "Provides fiscal year 2024 funding for Defense, Homeland Security, Labor-HHS-Education, State and foreign operations, Financial Services, and the Legislative Branch, the last six of the 12 annual spending bills. The House voted on the package under a procedure that required a two-thirds majority.",
+        "supporters": {
+          "text": "Rep. Kay Granger said the package strengthens national security by funding efforts to counter China, develop next-generation weapons, and improve servicemembers' quality of life. She said it continues support for Israel, combats the flow of illegal drugs, fully funds medical research for cancer and chronic diseases, and makes targeted cuts to wasteful programs.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-03-22/html/CREC-2024-03-22-pt1-PgH1365.htm"
+        },
+        "opponents": {
+          "text": "Chip Roy (R-Texas), who voted No, said the bill is 1,000 pages long, costs $1.2 trillion, contains about 1,400 earmarks, and was available for about 24 hours before the vote. He said it drops House Republican border provisions, including tying Homeland Security funding to the House border bill and barring mass parole, and predicted that added ICE detention beds will go unused under current Homeland Security memos.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-03-22/html/CREC-2024-03-22-pt1-PgH1365.htm"
+        },
+        "status": "approved",
+        "yes_means": "Congress should fund Defense, Homeland Security and four other areas for fiscal year 2024 in one package.",
+        "no_means": "Congress should not fund Defense, Homeland Security and four other areas for fiscal year 2024 in one package."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2024,
+        "number": 102,
+        "url": "https://clerk.house.gov/evs/2024/roll102.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-2670",
+        "title": "National Defense Authorization Act for Fiscal Year 2024",
+        "heading": "Annual defense spending and policy authorization",
+        "topic": "Foreign Policy and Military",
+        "changes": "Authorizes fiscal year 2024 funding and policy for the Department of Defense, military construction, and Energy Department national security programs. It also extends the Foreign Intelligence Surveillance Act Section 702 surveillance authority from December 31, 2023 to April 19, 2024.",
+        "supporters": {
+          "text": "Supporters say the bill is a good compromise, reached through a House-Senate conference, that is focused on deterring China and gives servicemembers the largest pay raise in over 20 years. They also say it adds oversight, such as a Special Inspector General for Ukraine aid and a deadline for a Defense Department audit.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2023-12-14/html/CREC-2023-12-14-pt1-PgH6947-3.htm"
+        },
+        "opponents": {
+          "text": "Opponents say the bill attaches an extension of FISA Section 702 surveillance authority, to April 19, 2024, without reforms, citing what they describe as 278,000 FBI queries on Americans that violated existing law. They say the extension would let the administration seek a new yearlong certification running to April 2025. They also say the final version dropped a House provision on diversity officers and weakened one on Defense Department salary caps.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2023-12-14/html/CREC-2023-12-14-pt1-PgH6947-3.htm"
+        },
+        "status": "approved",
+        "yes_means": "Congress should authorize fiscal year 2024 defense funding and extend FISA Section 702 to April 19, 2024.",
+        "no_means": "Congress should not authorize fiscal year 2024 defense funding or extend FISA Section 702 to April 19, 2024."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2023,
+        "number": 723,
+        "url": "https://clerk.house.gov/evs/2023/roll723.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "119-hr-139",
+        "title": "Sunshine Protection Act of 2025",
+        "heading": "Making daylight time permanent all year",
+        "topic": "Technology and Infrastructure",
+        "changes": "Ends the twice-yearly clock change by making daylight saving time permanent nationwide, moving each time zone's standard time one hour ahead. States that had exempted themselves from daylight saving time may choose either their current standard time or the new one.",
+        "supporters": {
+          "text": "Supporters say ending the twice-yearly clock change would spare families and businesses the disruption to sleep and routines, and would give people more evening daylight for time outdoors and for local businesses. They say only 12 percent of Americans prefer switching clocks twice a year, and that heart attacks and strokes rise in the days after a change.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2026-07-14/html/CREC-2026-07-14-pt1-PgH4445.htm"
+        },
+        "opponents": {
+          "text": "Opponents say permanent daylight saving time would bring late winter sunrises, and that the American Medical Association, the American Academy of Sleep Medicine, and the National Sleep Foundation consider permanent standard time the healthier choice. They say a 1974 trial of permanent daylight saving time ended after children died traveling to school in the dark.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2026-07-14/html/CREC-2026-07-14-pt1-PgH4445.htm"
+        },
+        "status": "approved",
+        "yes_means": "Daylight time should be made permanent nationwide, ending the twice-yearly clock change.",
+        "no_means": "Daylight time should not be made permanent nationwide, so clocks keep changing twice a year."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2026,
+        "number": 238,
+        "url": "https://clerk.house.gov/evs/2026/roll238.xml"
+      },
+      "challenger": {
+        "source": "split",
+        "position": null,
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "119-hr-7757",
+        "title": "KIDS Act",
+        "heading": "Online platform and privacy rules for minors",
+        "topic": "Technology and Infrastructure",
+        "changes": "Requires online platforms to give minors default safeguards, such as limits on who can message them and on addictive design features, gives parents oversight tools, sets rules for AI chatbots and online games, and requires websites with sexual material harmful to minors to use age verification technology. It also extends children's online privacy rules to teens, bars using children's and teens' personal information for individual-specific advertising, requires data brokers that sell minors' data to register with the Federal Trade Commission, says its requirement that platforms address harms to minors does not create a duty of care, and overrides state laws only where they conflict with it, while leaving states free to pass stronger protections for minors.",
+        "supporters": {
+          "text": "Supporters say it is the most comprehensive children's online safety package Congress has considered, with limits on addictive design, stronger tools for parents, and a ban on targeted advertising to kids and teens. They say it is a floor, not a ceiling, because states can still pass and enforce stronger laws, including ones that impose a duty of care.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2026-06-29/pdf/CREC-2026-06-29-pt1-PgH4280-2.pdf"
+        },
+        "opponents": {
+          "text": "Opponents say, in a letter from a bipartisan coalition of state attorneys general, that the bill would broadly preempt state laws on online harms to minors, including social media harms, obscenity, social gaming platforms and AI chatbots. They say Congress should instead advance legislation with a meaningful duty of care requirement for online platforms.",
+          "url": "https://www.atg.wa.gov/news/news-releases/ag-brown-joins-coalition-opposing-kids-act-supports-stronger-online-protections"
+        },
+        "status": "approved",
+        "yes_means": "Online platforms should be required to give minors default limits and give parents oversight tools.",
+        "no_means": "Online platforms should not be required to give minors default limits and give parents oversight tools."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2026,
+        "number": 228,
+        "url": "https://clerk.house.gov/evs/2026/roll228.xml"
+      },
+      "challenger": {
+        "source": "split",
+        "position": null,
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-3746",
+        "title": "Fiscal Responsibility Act of 2023",
+        "heading": "Debt limit suspension with spending caps",
+        "topic": "Budget, Taxes and Economy",
+        "changes": "Suspends the federal debt limit through January 1, 2025, and sets discretionary spending limits for fiscal years 2024 and 2025. It also rescinds unobligated funds, expands SNAP work requirements, changes TANF work rules, ends the pause on federal student loan payments, and changes environmental review rules.",
+        "supporters": {
+          "text": "Supporters say a debt limit increase should come with action on spending, and that the bill caps spending, claws back unspent pandemic funds, and adds work requirements for people able to work. One supporter said it places more than $2 trillion in constraints on future spending.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2023-05-31-i93/html/CREC-2023-05-31-pt1-PgH2681-4.htm"
+        },
+        "opponents": {
+          "text": "Some opponents say the bill puts new hurdles between poor and older people and food assistance, ends the student loan payment pause, and caps non-defense spending while inflation is rising. Others say it does too little about the debt, calling it a business-as-usual deal that adds at least $4 trillion to the national debt and extends the debt limit to 2025.",
+          "url": "https://jayapal.house.gov/2023/05/31/jayapal-statement-on-debt-ceiling-no-vote/",
+          "url2": "https://burlison.house.gov/media/press-releases/rep-burlison-issues-statement-fiscal-responsibility-act"
+        },
+        "status": "approved",
+        "yes_means": "Congress should suspend the debt limit through January 1, 2025, with spending limits and work rule changes.",
+        "no_means": "Congress should not suspend the debt limit through January 1, 2025, with spending limits and work rule changes."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2023,
+        "number": 243,
+        "url": "https://clerk.house.gov/evs/2023/roll243.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "119-s-1582",
+        "title": "GENIUS Act",
+        "heading": "Federal rules for payment stablecoins",
+        "topic": "Banking and Finance",
+        "changes": "Makes it unlawful for anyone but an approved issuer to issue a payment stablecoin in the U.S., requires reserves of at least 1 to 1 in assets such as cash, insured bank deposits, and short-term Treasury securities, and bars issuers from paying holders interest. State regulators may oversee issuers with $10 billion or less outstanding, and after three years digital asset platforms may not offer coins from unapproved issuers, with limited exceptions.",
+        "supporters": {
+          "text": "Supporters say the bill sets high, clear standards that treat every stablecoin issuer the same, which they say adds consumer and investor protections and makes the U.S. a leader in payments and digital assets. They note it passed the Senate with 68 votes and would go to the President for signature.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-07-17/html/CREC-2025-07-17-pt1-PgH3405.htm"
+        },
+        "opponents": {
+          "text": "Opponents say the bill does not bar the President or Vice President from running a stablecoin business, which they call a conflict of interest. They say its reserve rules allow uninsured bank deposits and possibly bitcoin, and that it leaves the door open to foreign issuers such as Tether and lets X issue its own coin.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-07-17/html/CREC-2025-07-17-pt1-PgH3405.htm"
+        },
+        "status": "approved",
+        "yes_means": "Payment stablecoins should be issued only by approved issuers holding at least 1 to 1 reserves.",
+        "no_means": "Payment stablecoins should not be limited to approved issuers holding at least 1 to 1 reserves."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2025,
+        "number": 200,
+        "url": "https://clerk.house.gov/evs/2025/roll200.xml"
+      },
+      "challenger": {
+        "source": "split",
+        "position": null,
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "119-s-1071",
+        "title": "National Defense Authorization Act for Fiscal Year 2026",
+        "heading": "Annual authorization of military programs and policy",
+        "topic": "Foreign Policy and Military",
+        "changes": "Authorizes fiscal year 2026 defense programs, including about $26 billion for Navy shipbuilding and conversion and $400 million for Ukraine security assistance in each of fiscal years 2026 and 2027, and changes how the Pentagon buys weapons and equipment. It is the final version negotiated by the House and Senate.",
+        "supporters": {
+          "text": "Supporters say the bill speeds up the Pentagon's slow, over-budget acquisition process by putting commercial solutions first and cutting regulatory burdens. They say it also funds a 3.8 percent pay raise and nearly $3 billion for barracks, housing, and childcare centers, and builds up forces to deter China.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-12-10/pdf/CREC-2025-12-10-pt1-PgH5136-3.pdf"
+        },
+        "opponents": {
+          "text": "Opponents say the bill does not do enough to assert Congress's oversight role over the Pentagon, and that its requirement for the Defense Department to report to Congress only after unlawful actions occur is inadequate. Rep. Chris Deluzio (PA-17), who voted No, said the final bill dropped provisions he had secured against price gouging by defense contractors and for troops' ability to repair their own equipment.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-12-10/pdf/CREC-2025-12-10-pt1-PgH5136-3.pdf",
+          "url2": "https://deluzio.house.gov/media/press-releases/congressman-deluzio-statement-house-passage-fy26-ndaa"
+        },
+        "status": "approved",
+        "yes_means": "Congress should authorize fiscal year 2026 defense programs, including $400 million a year for Ukraine security assistance.",
+        "no_means": "Congress should not authorize fiscal year 2026 defense programs, including $400 million a year for Ukraine security assistance."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2025,
+        "number": 320,
+        "url": "https://clerk.house.gov/evs/2025/roll320.xml"
+      },
+      "challenger": {
+        "source": "split",
+        "position": null,
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "119-s-4465",
+        "title": "A bill to amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978, and for other purposes.",
+        "heading": "Short extension of FISA Section 702 authority",
+        "topic": "Foreign Policy and Military",
+        "changes": "Extends the expiration date of Title VII of the Foreign Intelligence Surveillance Act, which contains the Section 702 surveillance authority, from April 30, 2026 to June 12, 2026.",
+        "supporters": {
+          "text": "Supporters say the Section 702 program is important for national security and that a temporary extension prevents any disruption while lawmakers work out their differences on a longer reauthorization. Some members, such as Rep. Raskin, said they would not oppose it because it gives time to negotiate privacy reforms.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2026-04-30/html/CREC-2026-04-30-pt1-PgH3322-5.htm"
+        },
+        "opponents": {
+          "text": "Opponents say that even a short extension is an infringement of the Constitution, because FISA databases are searched for Americans' information without a warrant, including for activists, journalists, and Members of Congress. They say the Senate has had years to act, so this is no emergency, and that Congress should not pass a clean reauthorization.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2026-04-30/html/CREC-2026-04-30-pt1-PgH3322-5.htm"
+        },
+        "status": "approved",
+        "yes_means": "FISA Section 702 surveillance authority should be extended from April 30, 2026 to June 12, 2026.",
+        "no_means": "FISA Section 702 surveillance authority should not be extended from April 30, 2026 to June 12, 2026."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2026,
+        "number": 155,
+        "url": "https://clerk.house.gov/evs/2026/roll155.xml"
+      },
+      "challenger": {
+        "source": "split",
+        "position": null,
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-2872",
+        "title": "Making further continuing appropriations for the fiscal year ending September 30, 2024, and for other purposes.",
+        "heading": "Short-term government funding through March 2024",
+        "topic": "Budget, Taxes and Economy",
+        "changes": "Generally continues funding for federal agencies at fiscal year 2023 levels, through March 1, 2024 for agriculture, energy and water, military construction and veterans, and transportation and housing programs, and through March 8, 2024 for most other agencies. It also extends several expiring health programs, including community health centers, through March 8, 2024.",
+        "supporters": {
+          "text": "Supporters say a short-term extension keeps the government open and gives Congress more time to negotiate full-year spending bills that both parties can support, now that the Speaker has negotiated a top-line spending level. They say House Republicans remain committed to fighting for policy changes as those bills are worked out.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-01-18/html/CREC-2024-01-18-pt1-PgH219-4.htm"
+        },
+        "opponents": {
+          "text": "Opponents say the bill keeps funding the government at the level of last year's omnibus spending bill, adding to the debt and to deficit spending, and continues funding policies they oppose, including border policies and the United Nations. They say it only buys time for a deal that raises spending above the agreed caps.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-01-18/html/CREC-2024-01-18-pt1-PgH219-4.htm"
+        },
+        "status": "approved",
+        "yes_means": "Congress should fund the government through March 8, 2024 at current levels.",
+        "no_means": "Congress should not fund the government through March 8, 2024 at current levels."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2024,
+        "number": 15,
+        "url": "https://clerk.house.gov/evs/2024/roll015.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "119-s-331",
+        "title": "HALT Fentanyl Act",
+        "heading": "Permanent Schedule I status for fentanyl-related substances",
+        "topic": "Crime and Justice",
+        "changes": "Permanently places all substances structurally related to fentanyl, as defined by a list of chemical modifications, in Schedule I of the Controlled Substances Act, replacing temporary scheduling set to expire on September 30, 2025. It also creates an expedited registration process for certain federally funded or investigational research with Schedule I substances.",
+        "supporters": {
+          "text": "Supporters say cartels evade the law by changing one part of fentanyl's chemical structure to make analogues, and that permanent Schedule I status would strengthen prosecutions of traffickers and deter trafficking. They say it would also speed research on the analogues and has no effect on a physician's ability to use fentanyl in medical settings.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-06-11/pdf/CREC-2025-06-11-pt1-PgH2625-5.pdf"
+        },
+        "opponents": {
+          "text": "Opponents say the class definition is disputed by scientists, and that a permanent listing removes the off-ramp a temporary extension would leave for substances found to have medical uses. They say Schedule I carries mandatory minimum sentences that worsen inequities in the criminal justice system, and that the bill adds no resources for prevention, treatment, recovery or harm reduction.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-06-11/pdf/CREC-2025-06-11-pt1-PgH2625-5.pdf"
+        },
+        "status": "approved",
+        "yes_means": "Fentanyl-related substances should be permanently placed in Schedule I of the Controlled Substances Act.",
+        "no_means": "Fentanyl-related substances should not be permanently placed in Schedule I of the Controlled Substances Act."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2025,
+        "number": 166,
+        "url": "https://clerk.house.gov/evs/2025/roll166.xml"
+      },
+      "challenger": {
+        "source": "split",
+        "position": null,
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-8035",
+        "title": "Ukraine Security Supplemental Appropriations Act, 2024",
+        "heading": "Emergency funding for Ukraine",
+        "topic": "Budget, Taxes and Economy",
+        "changes": "Provides fiscal year 2024 emergency supplemental appropriations to the Defense Department, State Department, and other agencies for Ukraine, including military aid, replacement of defense articles provided to Ukraine, economic support, and refugee assistance. It requires the President to transfer long-range Army Tactical Missile Systems to Ukraine and to enter an agreement with Ukraine on repaying the economic assistance it receives.",
+        "supporters": {
+          "text": "Supporters say the bill helps Ukraine stop Russia, and that two-thirds of the money would be spent in the United States on the defense industrial base and replacing military equipment. They say it adds oversight and cost-matching requirements, and for the first time requires that economic aid be repaid.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-04-20/html/CREC-2024-04-20-pt1-PgH2593.htm"
+        },
+        "opponents": {
+          "text": "Opponents say the European Union's economy is nine times the size of Russia's and its population three times larger, so Europe can do more. They say continued U.S. funding lets Europe avoid mustering the political will to act, and that Congress should put border security ahead of aid to Ukraine.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-04-20/html/CREC-2024-04-20-pt1-PgH2593.htm"
+        },
+        "status": "approved",
+        "yes_means": "Congress should provide fiscal year 2024 emergency funding for Ukraine, including military aid.",
+        "no_means": "Congress should not provide fiscal year 2024 emergency funding for Ukraine, including military aid."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2024,
+        "number": 151,
+        "url": "https://clerk.house.gov/evs/2024/roll151.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-5692",
+        "title": "Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024",
+        "heading": "Ukraine military aid and a new inspector general",
+        "topic": "Foreign Policy and Military",
+        "changes": "Provides $300 million in fiscal year 2024 supplemental funding to the Defense Department for the Ukraine Security Assistance Initiative, which covers training, equipment, weapons, and replacing American stock sent to Ukraine. It also creates an Office of the Special Inspector General for Ukraine Assistance to audit and investigate Ukraine aid programs, with $20 million of that funding transferred to it.",
+        "supporters": {
+          "text": "Supporters say the funding has helped Ukraine weaken Russia's military without putting a single U.S. troop in harm's way, and that it deters future aggression. They say the money pays for training and U.S.-made weapons rather than going directly to Ukraine, and that the new inspector general adds oversight.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2023-09-28/html/CREC-2023-09-28-pt2-PgH4823-2.htm"
+        },
+        "opponents": {
+          "text": "Opponents, speaking in a House debate on Ukraine funding the same day, say the United States has taken on a proxy war that Congress never voted for and that more funding risks prolonging it. They cite polling in which 55 percent of Americans said Congress should not authorize additional Ukraine funding, and say the money should be spent on the southern border instead.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2023-09-28/html/CREC-2023-09-28-pt1-PgH4719-3.htm"
+        },
+        "status": "approved",
+        "yes_means": "Congress should provide $300 million in military aid for Ukraine and create a special inspector general.",
+        "no_means": "Congress should not provide $300 million in military aid for Ukraine or create a special inspector general."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2023,
+        "number": 503,
+        "url": "https://clerk.house.gov/evs/2023/roll503.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-7463",
+        "title": "Extension of Continuing Appropriations and Other Matters Act, 2024",
+        "heading": "Short-term funding extension and student aid changes",
+        "topic": "Budget, Taxes and Economy",
+        "changes": "Continues government funding at fiscal year 2023 levels through March 8, 2024 for agriculture, energy and water, military construction and veterans, and transportation and housing programs, and through March 22, 2024 for most other agencies. It also changes how student aid eligibility is calculated and adds Pell Grant funding for fiscal year 2025 and later.",
+        "supporters": {
+          "text": "Supporters say the extension gives the House and Senate a few more weeks to finish drafting and reviewing the full-year funding bills while avoiding a harmful government shutdown. They say it keeps funding in line with the top-line spending levels agreed to earlier this year.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-02-29/html/CREC-2024-02-29-pt1-PgH759.htm"
+        },
+        "opponents": {
+          "text": "Opponents say the bill kicks the can down the road by continuing spending at last year's omnibus level, at a time when they say interest payments will exceed defense spending this year. They say it keeps funding programs they oppose, including border policies, the United Nations, the IRS, and the Justice Department, instead of Congress using its power of the purse.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-02-29/html/CREC-2024-02-29-pt1-PgH759.htm"
+        },
+        "status": "approved",
+        "yes_means": "Congress should fund the government at current levels through March 8, 2024, or March 22, 2024.",
+        "no_means": "Congress should not fund the government at current levels through March 8, 2024, or March 22, 2024."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2024,
+        "number": 58,
+        "url": "https://clerk.house.gov/evs/2024/roll058.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-1147",
+        "title": "Whole Milk for Healthy Kids Act of 2023",
+        "heading": "Allowing whole milk in school lunches",
+        "topic": "Health and Families",
+        "changes": "Lets schools in the National School Lunch Program offer whole, reduced-fat, low-fat, and fat-free milk, flavored or unflavored, instead of only fat-free or low-fat. It also excludes milk from the calculation of the saturated fat limit on school meals and bars schools from buying milk produced by Chinese state-owned enterprises.",
+        "supporters": {
+          "text": "Supporters say children have lost access to nutrients in whole milk, and that childhood obesity rose after whole milk left school lunchrooms in 2007-2008. They say studies show full-fat dairy has little to no association with obesity or heart disease, and that the bill only gives schools the option and requires no one to serve or drink whole milk.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2023-12-13/html/CREC-2023-12-13-pt1-PgH6889.htm"
+        },
+        "opponents": {
+          "text": "Opponents say whole milk has far more saturated fat, cholesterol, and calories than fat-free and low-fat milk, which they say offer the same vital nutrients. They say the Dietary Guidelines for Americans and groups including the American Heart Association and the American Academy of Pediatrics favor fat-free and low-fat milk, and that nutrition standards should be set by scientists, not legislators.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2023-12-13/html/CREC-2023-12-13-pt1-PgH6889.htm"
+        },
+        "status": "approved",
+        "yes_means": "Schools in the National School Lunch Program should be allowed to offer whole milk.",
+        "no_means": "Schools in the National School Lunch Program should not be allowed to offer whole milk."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2023,
+        "number": 718,
+        "url": "https://clerk.house.gov/evs/2023/roll718.xml"
+      },
+      "challenger": {
+        "source": "split",
+        "position": null,
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "119-hr-5625",
+        "title": "Cashless Bail Reporting Act",
+        "heading": "Federal list of cashless bail jurisdictions",
+        "topic": "Crime and Justice",
+        "changes": "Requires the Attorney General to publish, within one year of enactment and every year after, a list of each state and local government that allows people charged with certain offenses to be released before trial on their own recognizance or an unsecured bond. Covered offenses are those the Attorney General finds pose a clear threat to public safety and order, including violent or sexual offenses such as murder, rape and carjacking, and offenses such as looting, vandalism and rioting.",
+        "supporters": {
+          "text": "Supporters say Americans should be able to see which jurisdictions release people charged with serious crimes before trial on a written promise to appear, so they can advocate for change. They cite a March 2023 John Jay College study that found about 72 percent of violent felony offenders released without bail were later re-arrested.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2026-05-14/pdf/CREC-2026-05-14-pt1-PgH3471-3.pdf"
+        },
+        "opponents": {
+          "text": "Opponents say, in the view of The Bail Project, that the annual lists would be a hit list for policymakers to pressure states and localities to change their bail policies by threatening public safety funding they receive from the federal government. Representative Mary Gay Scanlon said at an earlier hearing that states and localities have reformed bail systems in response to research on inequities that burden racial minorities, women and the poor.",
+          "url": "https://dc.medill.northwestern.edu/blog/2026/05/19/house-passes-bill-to-discourage-release-without-bail-before-trial/"
+        },
+        "status": "approved",
+        "yes_means": "The Attorney General should publish a yearly list of governments allowing cashless release before trial.",
+        "no_means": "The Attorney General should not publish a yearly list of governments allowing cashless release before trial."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2026,
+        "number": 171,
+        "url": "https://clerk.house.gov/evs/2026/roll171.xml"
+      },
+      "challenger": {
+        "source": "split",
+        "position": null,
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-22",
+        "title": "Protecting America's Strategic Petroleum Reserve from China Act",
+        "heading": "Barring Strategic Petroleum Reserve oil sales to China",
+        "topic": "Energy",
+        "changes": "Bars the Energy Department from selling oil from the Strategic Petroleum Reserve to any entity under the ownership, control, or influence of the Chinese Communist Party. It also requires that any sale of Reserve oil carry a condition that the oil not be exported to China.",
+        "supporters": {
+          "text": "Supporters say the Reserve is meant for real supply disruptions such as hurricanes, not to help China. They say the administration released 250 million barrels in under two years, including one million barrels sold directly to a Chinese state-owned company, and that more reached China through overseas traders.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2023-01-12/html/CREC-2023-01-12-pt1-PgH209-2.htm"
+        },
+        "opponents": {
+          "text": "Opponents say the bill is too narrow, because Reserve sales were only 2 percent of the oil sent to China last year, and that a ban on all crude oil exports to China would address the issue. They also point to an earlier bipartisan bill that would have barred Reserve sales to Russia, Iran, North Korea, and sanctioned countries.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2023-01-12/html/CREC-2023-01-12-pt1-PgH209-2.htm"
+        },
+        "status": "approved",
+        "yes_means": "Petroleum Reserve oil should be barred from sale to entities controlled or influenced by China's Communist Party.",
+        "no_means": "Petroleum Reserve oil should not be barred from sale to entities controlled or influenced by China's Communist Party."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2023,
+        "number": 31,
+        "url": "https://clerk.house.gov/evs/2023/roll031.xml"
+      },
+      "challenger": {
+        "source": "split",
+        "position": null,
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-1101",
+        "title": "Lumbee Fairness Act",
+        "heading": "Federal recognition of the Lumbee Tribe",
+        "topic": "Civil Rights and Culture",
+        "changes": "Extends federal recognition to the Lumbee Tribe of North Carolina and makes its members eligible for the services and benefits given to members of federally recognized tribes, with members in four North Carolina counties treated as living near a reservation. It lets the Interior Department take land into trust for the tribe, and North Carolina keeps criminal and civil jurisdiction on that land unless it is transferred by agreement.",
+        "supporters": {
+          "text": "Supporters say a 1956 law named the Lumbee but barred them from federal services, leaving a tribe of about 55,000 without benefits that other recognized tribes receive, and that only Congress can fix this because the administrative process is a dead end under that law. They note the House passed the bill twice before and that 236 tribes support it.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-12-17/html/CREC-2024-12-17-pt1-PgH7268.htm"
+        },
+        "opponents": {
+          "text": "Opponents say Congress should not bypass the merit-based federal recognition process, which they note the Interior Department said in 2016 the Lumbee may use, because doing so tells other tribes that politics outweighs merit. They say the bill adds about three-quarters of a billion dollars in unpaid-for costs, and that 141 tribes oppose it.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-12-17/html/CREC-2024-12-17-pt1-PgH7268.htm"
+        },
+        "status": "approved",
+        "yes_means": "The Lumbee Tribe of North Carolina should get federal recognition.",
+        "no_means": "The Lumbee Tribe of North Carolina should not get federal recognition."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2024,
+        "number": 511,
+        "url": "https://clerk.house.gov/evs/2024/roll511.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-6363",
+        "title": "Further Continuing Appropriations and Other Extensions Act, 2024",
+        "heading": "Short-term funding through January and February 2024",
+        "topic": "Budget, Taxes and Economy",
+        "changes": "Continues funding at fiscal year 2023 levels through January 19, 2024, for Agriculture, Energy and Water, Military Construction-VA, and Transportation-HUD programs, and through February 2, 2024, for most other agencies. It also extends expiring programs, including 2018 farm bill programs and several public health programs.",
+        "supporters": {
+          "text": "Supporters say a continuing resolution is not ideal but is needed, buying time to agree on a top-line funding level and negotiate final bills with the Senate. They say it avoids a shutdown during the holidays, prevents a last-minute omnibus, and lets Congress take up supplemental funding separately from full-year spending.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2023-11-14/html/CREC-2023-11-14-pt1-PgH5793.htm"
+        },
+        "opponents": {
+          "text": "Chip Roy (R-Texas), who voted No, said the bill continues inflationary deficit spending and fails to secure a single policy victory for the American people. He said it was passed under suspension of the rules over conservative objections and makes future Republican fights on issues like border security harder. The House Freedom Caucus said the bill contains no spending reductions and no border security.",
+          "url": "https://roy.house.gov/media/press-releases/rep-chip-roy-issues-statement-house-continuing-resolution",
+          "url2": "https://www.alternet.org/amp/freedom-caucus-mike-johnson-2666262504"
+        },
+        "status": "approved",
+        "yes_means": "Congress should fund the government through January 19 and February 2, 2024 at current levels.",
+        "no_means": "Congress should not fund the government through January 19 and February 2, 2024 at current levels."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2023,
+        "number": 658,
+        "url": "https://clerk.house.gov/evs/2023/roll658.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-s-2228",
+        "title": "Building Chips in America Act of 2023",
+        "heading": "Environmental review exemptions for semiconductor projects",
+        "topic": "Environment and Public Lands",
+        "changes": "Exempts certain semiconductor projects that receive federal CHIPS financial assistance from review under the National Environmental Policy Act and the National Historic Preservation Act, including projects that start by December 31, 2024, receive loans or loan guarantees, or receive aid of no more than 10 percent of project cost. It also creates categorical exclusions for building or expanding semiconductor facilities and lets the Commerce Department lead the review of projects that are not exempt.",
+        "supporters": {
+          "text": "Supporters say environmental reviews of chip projects average 4.5 years, delaying construction and discouraging investment at a time when U.S. companies get as much as 90 percent of their chips from Taiwan. They say the bill streamlines permitting while still ensuring environmental protections.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-09-23/html/CREC-2024-09-23-pt1-PgH5603.htm"
+        },
+        "opponents": {
+          "text": "Opponents say the bill removes environmental review and public input for CHIPS-funded facilities that do not need to be exempt, citing the Commerce Secretary's statement that reviews are on track to finish before awards. They say Congress already sped up permitting, and that the bill skipped committee review and affects water supply, worker safety, and communities.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-09-23/html/CREC-2024-09-23-pt1-PgH5603.htm"
+        },
+        "status": "approved",
+        "yes_means": "Certain semiconductor projects receiving federal CHIPS aid should be exempt from National Environmental Policy Act review.",
+        "no_means": "Certain semiconductor projects receiving federal CHIPS aid should still be subject to National Environmental Policy Act review."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2024,
+        "number": 440,
+        "url": "https://clerk.house.gov/evs/2024/roll440.xml"
+      },
+      "challenger": {
+        "source": "split",
+        "position": null,
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-6090",
+        "title": "Antisemitism Awareness Act of 2023",
+        "heading": "Using an antisemitism definition in education complaints",
+        "topic": "Civil Rights and Culture",
+        "changes": "Requires the Department of Education, when reviewing complaints of discrimination based on race, color, or national origin involving Jewish ancestry or ethnic characteristics, to consider the 2016 International Holocaust Remembrance Alliance definition of antisemitism, including its contemporary examples, in judging whether the practice was motivated by antisemitic intent. The bill states that it does not expand the Department's authority or limit First Amendment protections.",
+        "supporters": {
+          "text": "Supporters say antisemitic harassment on campuses has risen sharply since October 7, 2023, and that the Education Department needs a consistent framework for judging it. They say the definition is widely accepted, has been adopted by at least 31 states, and is a vital tool for identifying conduct motivated by antisemitism.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-05-01/html/CREC-2024-05-01-pt1-PgH2790.htm"
+        },
+        "opponents": {
+          "text": "Opponents say the definition's examples can include protected speech, particularly criticism of Israel, so writing it into civil rights enforcement threatens to chill free speech. They say, citing the ACLU, that colleges seeking to avoid investigations or loss of federal funding could suppress such speech, and note that the definition's lead author, Kenneth Stern, opposes codifying it.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-05-01/html/CREC-2024-05-01-pt1-PgH2790.htm"
+        },
+        "status": "approved",
+        "yes_means": "The Education Department should be required to consider the IHRA antisemitism definition in certain discrimination complaints.",
+        "no_means": "The Education Department should not be required to consider the IHRA antisemitism definition in certain discrimination complaints."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2024,
+        "number": 172,
+        "url": "https://clerk.house.gov/evs/2024/roll172.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-5961",
+        "title": "No Funds for Iranian Terrorism Act",
+        "heading": "Sanctions on banks handling Iranian funds in Qatar",
+        "topic": "Foreign Policy and Military",
+        "changes": "Requires the President to block the property of foreign financial institutions that process or facilitate transactions involving about $6 billion in Iranian funds moved in 2023 from restricted accounts in South Korea to restricted accounts in Qatar, as part of the release of five Americans detained in Iran. The administration says the funds can be used only for approved humanitarian purchases.",
+        "supporters": {
+          "text": "Supporters say the deal puts a price on every American held hostage, and that because money is fungible, giving Iran access to $6 billion frees up other money for its support of groups such as Hamas. They say blocking these funds is the most consequential step Congress can take to stop Iran's financing of terrorism.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2023-11-30/pdf/CREC-2023-11-30-pt1-PgH6000-3.pdf"
+        },
+        "opponents": {
+          "text": "Opponents say the money is Iran's own oil revenue, held in a restricted account set up under the previous administration, and that not a penny of it has moved into Iran. They say the funds in Qatar are frozen and give the United States leverage, and that passing the bill would end that leverage and damage the country's credibility in future negotiations.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2023-11-30/pdf/CREC-2023-11-30-pt1-PgH6000-3.pdf"
+        },
+        "status": "approved",
+        "yes_means": "The President should block property of foreign banks handling $6 billion in Iranian funds in Qatar.",
+        "no_means": "The President should not block property of foreign banks handling $6 billion in Iranian funds in Qatar."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2023,
+        "number": 687,
+        "url": "https://clerk.house.gov/evs/2023/roll687.xml"
+      },
+      "challenger": {
+        "source": "split",
+        "position": null,
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-5860",
+        "title": "Continuing Appropriations Act, 2024 and Other Extensions Act",
+        "heading": "Short-term funding through November 17, 2023",
+        "topic": "Budget, Taxes and Economy",
+        "changes": "Funds most federal agencies at fiscal year 2023 levels through November 17, 2023, and provides emergency disaster relief funding. It also extends expiring programs, including certain Federal Aviation Administration programs and the National Flood Insurance Program.",
+        "supporters": {
+          "text": "Supporters say the bill keeps the government open until November 17 and prevents a harmful shutdown, while giving the House more time to pass full-year appropriations bills and begin negotiating with the Senate. They say the House has already sent four of those bills to the Senate.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2023-09-30/html/CREC-2023-09-30-pt1-PgH4915-9.htm"
+        },
+        "opponents": {
+          "text": "Opponents say that even for 45 days, funding the government at current spending levels is more than they can support. They say the House should instead have passed the shorter-term bill it considered the day before, which they say would have tightened border security while reducing spending. They also point to the $33 trillion national debt.",
+          "url": "https://hageman.house.gov/media/press-releases/statement-passage-continuing-resolution"
+        },
+        "status": "approved",
+        "yes_means": "Congress should fund most federal agencies at current levels through November 17, 2023.",
+        "no_means": "Congress should not fund most federal agencies at current levels through November 17, 2023."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2023,
+        "number": 513,
+        "url": "https://clerk.house.gov/evs/2023/roll513.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-5921",
+        "title": "No U.S. Financing for Iran Act of 2023",
+        "heading": "Limits on financing and trade with Iran",
+        "topic": "Foreign Policy and Military",
+        "changes": "Bars the Treasury from authorizing American financial institution transactions tied to importing from or exporting to Iran, except for agricultural commodities, food, medicine, medical devices, and humanitarian aid for civilians. It also directs American representatives at the IMF to oppose IMF aid and Special Drawing Rights for Iran, and writes the Export-Import Bank's ban on Iran financing into law, all for up to 10 years.",
+        "supporters": {
+          "text": "Supporters say the bill cuts Iran off from the U.S. financial system and IMF funds it could use to finance terrorism, and puts into law sanctions now set in many cases by executive order. They say it exempts humanitarian aid for the Iranian people, and note it left committee with seven Democratic votes.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-04-15-i64/html/CREC-2024-04-15-pt1-PgH2376.htm"
+        },
+        "opponents": {
+          "text": "Opponents say the bill would block Treasury from agreeing to IMF Special Drawing Rights increases that developing countries used during the pandemic, though they say Iran cannot convert its allotment to dollars. They also say it would force the Export-Import Bank to re-review every transaction, which would halt financing for U.S. small businesses.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-04-15-i64/html/CREC-2024-04-15-pt1-PgH2376.htm"
+        },
+        "status": "approved",
+        "yes_means": "Financial transactions tied to trade with Iran should be barred, except for food and medicine.",
+        "no_means": "Financial transactions tied to trade with Iran should not be barred, whether or not for food and medicine."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2024,
+        "number": 123,
+        "url": "https://clerk.house.gov/evs/2024/roll123.xml"
+      },
+      "challenger": {
+        "source": "split",
+        "position": null,
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "119-hr-3383",
+        "title": "Incentivizing New Ventures and Economic Strength Through Capital Formation Act of 2025",
+        "heading": "Changes to securities rules for investors and companies",
+        "topic": "Banking and Finance",
+        "changes": "Bundles 22 securities bills that revise the accredited investor definition, ease rules for companies going public, and bar the SEC from limiting how much of a closed-end fund's assets go into private funds. It also exempts certain 403(b) retirement plans from Investment Company Act regulation and directs the SEC to write rules making electronic delivery of investor documents the default.",
+        "supporters": {
+          "text": "Supporters say the bill helps startups and small businesses outside the three coastal areas that draw nearly three quarters of venture capital, and cuts red tape that discourages companies from going public. They say it revises the accredited investor definition so that financial sophistication, not just income, counts, and that 81 organizations support it.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-12-10/html/CREC-2025-12-10-pt1-PgH5534.htm"
+        },
+        "opponents": {
+          "text": "Opponents say three provisions would reduce investor protections: exempting about $1 trillion in 403(b) plans held by teachers and nurses from SEC rules, making electronic delivery the default for seniors who they say prefer paper, and letting closed-end funds exceed the current 15 percent limit on private assets. They say unions, AARP, and state securities regulators oppose it.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-12-10/html/CREC-2025-12-10-pt1-PgH5534.htm"
+        },
+        "status": "approved",
+        "yes_means": "Congress should pass a bundle of 22 securities bills changing rules for investors and companies going public.",
+        "no_means": "Congress should not pass a bundle of 22 securities bills changing rules for investors and companies going public."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2025,
+        "number": 328,
+        "url": "https://clerk.house.gov/evs/2025/roll328.xml"
+      },
+      "challenger": {
+        "source": "split",
+        "position": null,
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hres-1061",
+        "title": "Providing for the concurrence by the House in the Senate amendment to H.R. 4366, with an amendment.",
+        "heading": "Six-bill spending package for fiscal year 2024",
+        "topic": "Budget, Taxes and Economy",
+        "changes": "Concurs in the Senate amendment to the Consolidated Appropriations Act, 2024 with a House amendment, a six-bill package funding military construction and veterans affairs, agriculture, commerce-justice-science, energy and water, interior and environment, and transportation and housing for fiscal year 2024. It also includes health program extensions and Compact of Free Association amendments.",
+        "supporters": {
+          "text": "Supporters say House Republicans drafted the most conservative spending bills in history, increased defense funding, made targeted cuts, and kept policy riders that Democrats wanted removed. They say it also avoids a single massive omnibus bill by funding the government through full-year bills.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-03-06/pdf/CREC-2024-03-06-pt1-PgH842-2.pdf"
+        },
+        "opponents": {
+          "text": "Opponents say the package is a shell game that breaks the $1.59 trillion spending cap Republicans agreed to last year, going to $1.66 trillion. They say the claimed $24 billion in cuts is misleading, since most of a claimed 7 percent FBI cut is one eliminated earmark, and that Republican policy goals such as defunding sanctuary cities are missing.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-03-06/pdf/CREC-2024-03-06-pt1-PgH842-2.pdf"
+        },
+        "status": "approved",
+        "yes_means": "Congress should pass a six-bill fiscal year 2024 spending package covering veterans, agriculture, energy and transportation.",
+        "no_means": "Congress should not pass a six-bill fiscal year 2024 spending package covering veterans, agriculture, energy and transportation."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2024,
+        "number": 64,
+        "url": "https://clerk.house.gov/evs/2024/roll064.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hres-927",
+        "title": "Condemning antisemitism on University campuses and the testimony of University Presidents in the House Committee on Education and the Workforce.",
+        "heading": "Condemning university presidents' testimony on antisemitism",
+        "topic": "Education and Jobs",
+        "changes": "Condemns the rise of antisemitism on university campuses and condemns the December 5, 2023 testimony of the presidents of the University of Pennsylvania, Harvard, and MIT to the House Education and the Workforce Committee. Its preamble says the Harvard and MIT presidents should follow the University of Pennsylvania president, who had resigned, in resigning.",
+        "supporters": {
+          "text": "Supporters say the presidents gave a legalistic answer, \"it depends on the context,\" when asked whether calling for the genocide of Jews violates campus harassment policies. They say defending Jewish students' ability to feel safe on campus never depends on context, and that university leaders should be held accountable.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2023-12-13/html/CREC-2023-12-13-pt1-PgH6907-2.htm"
+        },
+        "opponents": {
+          "text": "Opponents say this would be the first time the House has told private college presidents to resign, and that doing so without due process comes close to a bill of attainder, an unconstitutional punishment of named people. They say the House already passed a resolution on November 2 condemning antisemitism on campuses, so calling for resignations is the only new element.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2023-12-13/html/CREC-2023-12-13-pt1-PgH6907-2.htm"
+        },
+        "status": "approved",
+        "yes_means": "The House should condemn the December 5, 2023 testimony of three university presidents on antisemitism.",
+        "no_means": "The House should not condemn the December 5, 2023 testimony of three university presidents on antisemitism."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2023,
+        "number": 721,
+        "url": "https://clerk.house.gov/evs/2023/roll721.xml"
+      },
+      "challenger": {
+        "source": "split",
+        "position": null,
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "119-hr-1156",
+        "title": "Pandemic Unemployment Fraud Enforcement Act",
+        "heading": "Longer deadline for pandemic unemployment fraud cases",
+        "topic": "Education and Jobs",
+        "changes": "Sets a 10-year deadline, after the violation, for criminal and civil fraud actions over unemployment claims paid by CARES Act pandemic programs, up from the general five-year limit for federal crimes, but not for cases whose deadline had already expired. It pays for this by rescinding $5 million in unobligated funds from a COVID-era law.",
+        "supporters": {
+          "text": "Supporters say $100 billion to $135 billion in pandemic unemployment benefits was stolen, only about $5 billion has been recovered, and more than 1,600 investigations are open, with the current deadline starting to run out on March 27. They say the bill targets organized criminals rather than people who made mistakes.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-03-11/html/CREC-2025-03-11-pt1-PgH1093-2.htm"
+        },
+        "opponents": {
+          "text": "Opponents say the bill has no guardrails limiting cases to serious fraud, so workers given overpayments through state errors could face accusations a decade later. They say it comes after the firing of the Labor inspector general who recommended the extension, and that an amendment setting a $100,000 threshold was not allowed.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-03-11/html/CREC-2025-03-11-pt1-PgH1093-2.htm"
+        },
+        "status": "approved",
+        "yes_means": "The deadline for fraud cases over pandemic unemployment claims should be extended to 10 years.",
+        "no_means": "The deadline for fraud cases over pandemic unemployment claims should stay at the general five years."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2025,
+        "number": 68,
+        "url": "https://clerk.house.gov/evs/2025/roll068.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Nay",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-9747",
+        "title": "Continuing Appropriations and Extensions Act, 2025",
+        "heading": "Short-term government funding through December 2024",
+        "topic": "Budget, Taxes and Economy",
+        "changes": "Funds federal agencies at fiscal year 2024 levels through the earlier of December 20, 2024, or enactment of the applicable full-year spending bill. It adds funding for the Secret Service and extends expiring programs, including TANF and the National Flood Insurance Program.",
+        "supporters": {
+          "text": "Rep. Tom Cole said the bill is narrow, runs through December 20, and avoids a costly shutdown that would damage national security and critical programs. He said it extends WIC, TANF, and flood insurance, adds Secret Service resources, and lets the next President have a say in the appropriations process.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-09-25/html/CREC-2024-09-25-pt1-PgH5781.htm"
+        },
+        "opponents": {
+          "text": "Chip Roy (R-Texas), who voted No, said he believes Congress last avoided a continuing resolution in 1997, and that the government takes in $4.5 to $5 trillion while spending $6.5 to $7 trillion. He said the stopgap leaves out the Speaker's earlier proposal for guaranteeing that only citizens vote in federal elections.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-09-25/html/CREC-2024-09-25-pt1-PgH5781.htm"
+        },
+        "status": "approved",
+        "yes_means": "Congress should fund federal agencies at current levels through December 20, 2024.",
+        "no_means": "Congress should not fund federal agencies at current levels through December 20, 2024."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2024,
+        "number": 450,
+        "url": "https://clerk.house.gov/evs/2024/roll450.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-8333",
+        "title": "BIOSECURE Act",
+        "heading": "Federal limits on contracting with certain biotechnology companies",
+        "topic": "Health and Families",
+        "changes": "Bars federal agencies and recipients of federal funds from buying or using biotechnology equipment or services from a biotechnology company of concern, or from contracting with entities that do. The term covers five companies named in the bill plus others the Office of Management and Budget lists as controlled by a foreign adversary and a national security risk, and agency heads may waive the ban case by case, with OMB approval, for up to a year, extendable once.",
+        "supporters": {
+          "text": "Supporters say the bill keeps federal money from flowing to biotechnology companies controlled by China or other foreign adversaries, and names five companies they say pose significant national security risks. They say it exempts existing contracts until January 2032, includes a waiver process, and guards Americans' sensitive healthcare data from the Chinese Communist Party.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-09-09/html/CREC-2024-09-09-pt1-PgH5051.htm"
+        },
+        "opponents": {
+          "text": "Opponents say the bill is not ready, because a clear explanation of how the five companies were chosen has not been given, and because once named, a company has no way to get off the list. They say regulators dislike naming companies in statute, and that the list should come from a transparent interagency review involving the other committees with expertise.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-09-09/html/CREC-2024-09-09-pt1-PgH5051.htm"
+        },
+        "status": "approved",
+        "yes_means": "Federal agencies should be barred from buying biotechnology equipment or services from biotechnology companies of concern.",
+        "no_means": "Federal agencies should still be able to buy biotechnology equipment or services from biotechnology companies of concern."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2024,
+        "number": 402,
+        "url": "https://clerk.house.gov/evs/2024/roll402.xml"
+      },
+      "challenger": {
+        "source": "split",
+        "position": null,
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "119-hr-3633",
+        "title": "Digital Asset Market Clarity Act",
+        "heading": "SEC and CFTC rules for digital assets",
+        "topic": "Banking and Finance",
+        "changes": "Sets up a system in which the Securities and Exchange Commission and the Commodity Futures Trading Commission regulate the offer and sale of digital commodities, with registration for digital commodity exchanges, brokers, and dealers. It excludes decentralized finance activities from those requirements and, under a section titled as an exemption from state securities laws, treats digital commodities as covered securities.",
+        "supporters": {
+          "text": "Supporters say the bill replaces regulation by enforcement with clear rules, including bans on mixing customer funds and conflict of interest standards, so the country does not watch the next FTX fail. They say it treats decentralized finance developers, who do not hold user assets, differently from companies that do, and that it keeps the U.S. competitive.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-07-17/html/CREC-2025-07-17-pt1-PgH3373-4.htm"
+        },
+        "opponents": {
+          "text": "Opponents say the bill would let companies such as Apple or Google avoid securities disclosure rules, as a former CFTC chairman warned, and that it limits state regulators and does too little on illicit finance. They also say it gives the President a conflict of interest, since his family's crypto ventures would operate under rules the White House can review.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-07-17/html/CREC-2025-07-17-pt1-PgH3373-4.htm"
+        },
+        "status": "approved",
+        "yes_means": "The SEC and CFTC should regulate digital commodity sales, with registration for exchanges, brokers and dealers.",
+        "no_means": "The SEC and CFTC should not regulate digital commodity sales, with registration for exchanges, brokers and dealers."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2025,
+        "number": 199,
+        "url": "https://clerk.house.gov/evs/2025/roll199.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Nay",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "119-hr-3095",
+        "title": "To direct the United States Postal Service to designate single, unique ZIP Codes for certain communities, and for other purposes.",
+        "heading": "New ZIP Codes for 66 communities",
+        "topic": "Government and Elections",
+        "changes": "Requires the Postal Service, within 270 days of enactment, to designate a single, unique ZIP Code for each of 66 listed communities across the country.",
+        "supporters": {
+          "text": "Supporters say communities that share ZIP Codes with neighboring towns face misdirected mail, slower emergency response, higher insurance costs, and sales tax revenue credited to the wrong place. They say the Postal Service petition process rarely succeeds and can bar reapplying for up to 10 years.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-07-21/html/CREC-2025-07-21-pt1-PgH3493.htm"
+        },
+        "opponents": {
+          "text": "Lateefah Simon (D-California), who voted No, said she could not support the bill because it skips a bipartisan committee standard for ZIP Code bills: a letter from local leaders, proof the community petitioned the Postal Service and was refused, and cosponsorship by every affected Member. She said only one-quarter of the communities meet those requirements. Her stated objection concerned committee process, not whether the ZIP Codes are needed.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-07-21/html/CREC-2025-07-21-pt1-PgH3493.htm"
+        },
+        "status": "approved",
+        "yes_means": "The Postal Service should assign a unique ZIP Code to each of 66 listed communities.",
+        "no_means": "The Postal Service should not assign a unique ZIP Code to each of 66 listed communities."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2025,
+        "number": 213,
+        "url": "https://clerk.house.gov/evs/2025/roll213.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Nay",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-82",
+        "title": "Social Security Fairness Act of 2023",
+        "heading": "Repealing two Social Security rules for pension holders",
+        "topic": "Health and Families",
+        "changes": "Repeals the government pension offset, which reduces Social Security spousal and survivor benefits for people who receive a government pension, and the windfall elimination provision, which reduces benefits for people who also receive a pension from work not covered by Social Security. The repeals apply to benefits payable after December 2023.",
+        "supporters": {
+          "text": "Supporters say people who paid into Social Security long enough to qualify, and who also worked in public jobs such as teaching, policing, or firefighting, now receive reduced benefits that they say they earned. They say the windfall provision affects more than 2 million people and the pension offset more than 750,000, and that both should be repealed.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-11-12/pdf/CREC-2024-11-12-pt1-PgH5925.pdf"
+        },
+        "opponents": {
+          "text": "Opponents say repealing both rules without a replacement formula would cost Social Security almost $200 billion over 10 years and move up the trust fund's insolvency by about 6 months, after which they say all beneficiaries would face a 20 to 25 percent benefit cut. They say the current rules are flawed, but that repeal alone would replace one kind of unequal treatment with another.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-11-12/pdf/CREC-2024-11-12-pt1-PgH5925.pdf"
+        },
+        "status": "approved",
+        "yes_means": "The government pension offset and windfall elimination provision should be repealed, ending those Social Security reductions.",
+        "no_means": "The government pension offset and windfall elimination provision should stay in place, keeping those Social Security reductions."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2024,
+        "number": 456,
+        "url": "https://clerk.house.gov/evs/2024/roll456.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-4763",
+        "title": "Financial Innovation and Technology for the 21st Century Act",
+        "heading": "Digital asset oversight split between SEC and CFTC",
+        "topic": "Banking and Finance",
+        "changes": "Sets a regulatory framework for digital assets, under which the CFTC regulates an asset as a commodity if its blockchain is functional and decentralized, and the SEC regulates it as a security if the blockchain is functional but not decentralized. A blockchain counts as decentralized if no person can unilaterally control it and no issuer or affiliate controls 20 percent or more of the asset or its voting power.",
+        "supporters": {
+          "text": "Supporters say the SEC and CFTC are in a food fight, bringing contradictory enforcement actions against the same firms and leaving consumers and innovators behind. They say the bill sets clear rules and applies time-tested consumer protections for the 20 percent of Americans who use digital assets.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-05-22/html/CREC-2024-05-22-pt1-PgH3419.htm"
+        },
+        "opponents": {
+          "text": "Opponents say the bill moves much of the crypto industry out of SEC oversight into a lighter CFTC regime or a space with no primary regulator, removing protections such as the right to sue. They say it would upend more than 170 SEC crypto cases, and note the Biden administration's policy statement said it lacks sufficient protections for consumers and investors.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-05-22/html/CREC-2024-05-22-pt1-PgH3419.htm"
+        },
+        "status": "approved",
+        "yes_means": "Digital assets should be regulated by the CFTC if decentralized and by the SEC if not.",
+        "no_means": "Digital assets should not be regulated by the CFTC if decentralized and by the SEC if not."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2024,
+        "number": 226,
+        "url": "https://clerk.house.gov/evs/2024/roll226.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Nay",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "119-hr-6472",
+        "title": "Territorial Student Access to Higher Education Act",
+        "heading": "In-state tuition for United States territory residents",
+        "topic": "Education and Jobs",
+        "changes": "Requires public colleges and universities that take part in federal student aid programs to charge residents of Guam, the Northern Mariana Islands, American Samoa and the Virgin Islands who are United States nationals no more than the in-state tuition and fees of the state where the school is located. The bill provides no federal funding to cover the difference.",
+        "supporters": {
+          "text": "Supporters say students from the small territories often must study on the mainland because degrees such as law, medicine and doctorates are not offered at home, and that in-state rates would help them return and strengthen local workforces. They say the bill costs the federal government nothing, and note that servicemembers and their families already receive in-state rates under current law.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2026-03-03/pdf/CREC-2026-03-03-pt1-PgH2366.pdf"
+        },
+        "opponents": {
+          "text": "Opponents say, in a letter from public university associations APLU and AASCU, that the bill places an unfunded mandate on states and state institutions and erodes federalism, because states set residency rules for in-state tuition and provide most public higher education funding. They urge federal aid for territory residents instead, and warn that other interests would seek similar mandates.",
+          "url": "https://www.aplu.org/wp-content/uploads/12.8.25EdWorkforceTuitionMandateUSTerritories.pdf"
+        },
+        "status": "approved",
+        "yes_means": "Public colleges should be required to cap tuition for U.S. nationals from four territories at in-state rates.",
+        "no_means": "Public colleges should not be required to cap tuition for U.S. nationals from four territories at in-state rates."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2026,
+        "number": 82,
+        "url": "https://clerk.house.gov/evs/2026/roll082.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-5378",
+        "title": "Lower Costs, More Transparency Act",
+        "heading": "Health care price disclosure requirements",
+        "topic": "Health and Families",
+        "changes": "Gives statutory backing to rules requiring hospitals to publish prices, and extends them to clinical laboratories, imaging providers, and ambulatory surgical centers in Medicare. It also requires pharmacy benefit managers to report drug spending, rebates, and fees to health plan sponsors, sets the same Medicare payment for certain drug administration at off-campus hospital outpatient departments as in physician offices, and extends public health programs.",
+        "supporters": {
+          "text": "Supporters say patients are billed thousands more than they were quoted and cannot learn prices before care, and that over 90 percent of Americans support more price transparency. They say the Congressional Budget Office estimates the bill would save taxpayers more than $700 million over the next decade.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2023-12-11/html/CREC-2023-12-11-pt1-PgH6762.htm"
+        },
+        "opponents": {
+          "text": "Opponents say a transparency bill should not leave out private equity and Medicare Advantage, and that amendments on both were rejected in the Ways and Means Committee. They say private equity ownership in health care brings higher prices and lower quality, and that Medicare Advantage costs $1,500 more per person each year than traditional Medicare.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2023-12-11/html/CREC-2023-12-11-pt1-PgH6762.htm"
+        },
+        "status": "approved",
+        "yes_means": "Hospitals and health providers should have to publish prices, and pharmacy benefit managers should report spending.",
+        "no_means": "Hospitals and health providers should not have to publish prices, and pharmacy benefit managers should not report spending."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2023,
+        "number": 708,
+        "url": "https://clerk.house.gov/evs/2023/roll708.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-5349",
+        "title": "Crucial Communism Teaching Act",
+        "heading": "High school curriculum on communism",
+        "topic": "Education and Jobs",
+        "changes": "Directs the Victims of Communism Memorial Foundation to develop a civic education curriculum and oral history resources for high school students on political ideologies, including communism and totalitarianism, that conflict with the principles of American democracy. It also directs the foundation to work with state and local education leaders to help high schools use them, and requires the curriculum, under an adopted amendment, to be updated periodically to cover past and present communist and totalitarian regimes, including ongoing human rights abuses.",
+        "supporters": {
+          "text": "Supporters say communism has caused over 100 million deaths and that polls show many young Americans view it favorably, so students need accurate teaching about it. They say schools could choose whether to use the materials, and point to foreign influence in American schools.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-12-06/html/CREC-2024-12-06-pt1-PgH6417-4.htm"
+        },
+        "opponents": {
+          "text": "Opponents say most schools already teach that communism is bad, and that the bill leaves out fascism. They say Republicans on the Rules Committee rejected an amendment to add it, and that voters do not want to be lectured about communism or told how to teach their kids.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-12-04/html/CREC-2024-12-04-pt1-PgH6306-4.htm"
+        },
+        "status": "approved",
+        "yes_means": "The Victims of Communism Memorial Foundation should develop a high school curriculum on communism and totalitarianism.",
+        "no_means": "The Victims of Communism Memorial Foundation should not develop a high school curriculum on communism and totalitarianism."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2024,
+        "number": 492,
+        "url": "https://clerk.house.gov/evs/2024/roll492.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "119-hr-30",
+        "title": "Preventing Violence Against Women by Illegal Aliens Act",
+        "heading": "Immigration consequences for sex offenses and domestic violence",
+        "topic": "Immigration",
+        "changes": "Makes noncitizens inadmissible if convicted of, or admitting to, sex offenses, domestic violence, stalking, child abuse, or violating a protection order, and makes those convicted of sex offenses deportable. It also widens the domestic violence deportation ground to use the Violence Against Women Act definition.",
+        "supporters": {
+          "text": "Supporters say the bill makes clear that noncitizens who commit sex offenses are inadmissible and removable, and closes a gap by adding an inadmissibility ground for domestic violence to match the existing removal ground. They say anything that makes it easier to remove criminal noncitizens should draw bipartisan support.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-01-16/html/CREC-2025-01-16-pt1-PgH191-3.htm"
+        },
+        "opponents": {
+          "text": "Opponents say sex offenses and domestic violence already make a noncitizen deportable and inadmissible, and that the bill removes exceptions that protect survivors arrested for defending themselves. They say more than 200 victim advocacy groups oppose it, and that it would make immigrant victims less likely to report abuse.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-01-16/html/CREC-2025-01-16-pt1-PgH191-3.htm"
+        },
+        "status": "approved",
+        "yes_means": "Noncitizens convicted of sex offenses, domestic violence or stalking should be barred from entering the country.",
+        "no_means": "Noncitizens convicted of sex offenses, domestic violence or stalking should still be able to enter the country."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2025,
+        "number": 17,
+        "url": "https://clerk.house.gov/evs/2025/roll017.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Nay",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-6976",
+        "title": "Protect Our Communities from DUIs Act",
+        "heading": "Immigration consequences for drunk or impaired driving",
+        "topic": "Immigration",
+        "changes": "Makes driving while intoxicated or impaired a ground for barring a non-citizen from admission to the United States or for deporting them, whether the offense is a misdemeanor or a felony and as defined by the jurisdiction where it occurred. Deportation requires a conviction, while the admission bar also applies to a person who admits to the offense.",
+        "supporters": {
+          "text": "Supporters say drunk drivers are involved in 31 percent of crash deaths, and that immigration law does not explicitly make a noncitizen inadmissible or removable for driving drunk. They say anyone convicted of driving drunk should be removable, for safer roads and communities.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-02-01/html/CREC-2024-02-01-pt1-PgH369-3.htm"
+        },
+        "opponents": {
+          "text": "Opponents say current law already makes noncitizens with serious DUI offenses deportable, and that this bill reaches any DUI conviction, including a single conviction with no injury. They say it would expose long-term green card holders to deportation, and that states define DUI differently.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-02-01/html/CREC-2024-02-01-pt1-PgH369-3.htm"
+        },
+        "status": "approved",
+        "yes_means": "Drunk or impaired driving should be a ground for barring a non-citizen from admission or for deportation.",
+        "no_means": "Drunk or impaired driving should not be a ground for barring a non-citizen from admission or for deportation."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2024,
+        "number": 31,
+        "url": "https://clerk.house.gov/evs/2024/roll031.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Nay",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "119-hr-5184",
+        "title": "Affordable HOMES Act",
+        "heading": "Manufactured housing energy standards moved to HUD",
+        "topic": "Energy",
+        "changes": "Voids the Energy Department's May 2022 energy conservation standards for manufactured housing and limits the Energy Department to sending recommendations on revising the standards to the Department of Housing and Urban Development. Any recommendations must be based on cost-effectiveness and include estimates of the effect on the purchase price of manufactured homes.",
+        "supporters": {
+          "text": "Supporters say Energy Department standards duplicate HUD's longstanding authority over manufactured homes and rely on a code written for site-built homes, raising costs for buyers whose average income is $63,000. They say HUD would keep regulatory authority and the bill does not diminish energy efficiency.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2026-01-09/html/CREC-2026-01-09-pt1-PgH595-2.htm"
+        },
+        "opponents": {
+          "text": "Opponents say repealing the 2022 standard would give up about $5 billion in savings, roughly $475 a year in utility bills per home, for residents whose homes cost about 70 percent more per square foot to power. They say HUD failed to update its energy code from 1994 until the Energy Department acted.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2026-01-09/html/CREC-2026-01-09-pt1-PgH595-2.htm"
+        },
+        "status": "approved",
+        "yes_means": "The Energy Department's 2022 manufactured housing energy standards should be voided and sent to HUD.",
+        "no_means": "The Energy Department's 2022 manufactured housing energy standards should stay in place and not be sent to HUD."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2026,
+        "number": 12,
+        "url": "https://clerk.house.gov/evs/2026/roll012.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Nay",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "119-hr-2483",
+        "title": "SUPPORT for Patients and Communities Reauthorization Act of 2025",
+        "heading": "Reauthorizing opioid and substance use programs",
+        "topic": "Health and Families",
+        "changes": "Reauthorizes, for fiscal years 2026 through 2030, federal programs for preventing, treating, and recovering from substance use disorder, including first responder training and a residential treatment program for pregnant and postpartum women. Some programs receive specific yearly amounts, such as $4,250,000 for prenatal and postnatal health programs.",
+        "supporters": {
+          "text": "Supporters say the programs help improve treatment and recovery and strengthen prevention, and that fentanyl is still taking a devastating toll on communities. They say the text was negotiated by both parties in both chambers, and that Congress's job is to authorize these programs and then fund and oversee them.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-06-04/html/CREC-2025-06-04-pt1-PgH2441-2.htm"
+        },
+        "opponents": {
+          "text": "Opponents say the administration is merging the Substance Abuse and Mental Health Services Administration, the agency that carries out these programs, into a larger office and has proposed eliminating nearly all of the programs the bill reauthorizes. They say reauthorizing programs with no agency, money, or staff to run them gives the public the impression of action that is not happening.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-06-04/html/CREC-2025-06-04-pt1-PgH2441-2.htm"
+        },
+        "status": "approved",
+        "yes_means": "Congress should reauthorize federal substance use prevention, treatment and recovery programs for fiscal years 2026 through 2030.",
+        "no_means": "Congress should not reauthorize federal substance use prevention, treatment and recovery programs for fiscal years 2026 through 2030."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2025,
+        "number": 151,
+        "url": "https://clerk.house.gov/evs/2025/roll151.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "119-hr-884",
+        "title": "To prohibit individuals who are not citizens of the United States from voting in elections in the District of Columbia and to repeal the Local Resident Voting Rights Amendment Act of 2022.",
+        "heading": "Banning noncitizen voting in District of Columbia elections",
+        "topic": "Government and Elections",
+        "changes": "Bars anyone who is not a United States citizen from voting in District of Columbia elections or ballot measures, and repeals the District's 2022 law that let noncitizen residents vote in local elections. That law applied only to local offices and ballot measures, and federal law already bars noncitizens from voting in federal elections.",
+        "supporters": {
+          "text": "Supporters say the right to vote is a defining privilege of citizenship, and that letting noncitizens, including illegal immigrants and foreign diplomats, vote in the District dilutes the voice of citizens. They say local elections decide taxes and criminal law, and that an identical bill passed the House last Congress with 262 votes, including 52 Democrats.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-06-10/pdf/CREC-2025-06-10-pt1-PgH2594.pdf"
+        },
+        "opponents": {
+          "text": "Opponents say Congress should not repeal a law passed by the District's elected council, and that doing so goes against the purpose of the Home Rule Act of 1973. They say the law covers only local elections, that foreign diplomats would have to renounce voting in their home countries to register, and that Congress and 40 states have at times allowed noncitizens to vote in local elections.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-06-10/pdf/CREC-2025-06-10-pt1-PgH2594.pdf"
+        },
+        "status": "approved",
+        "yes_means": "Noncitizens should be barred from voting in District of Columbia local elections, ending the District's voting law.",
+        "no_means": "Noncitizens should still be able to vote in District of Columbia local elections, keeping the District's voting law."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2025,
+        "number": 163,
+        "url": "https://clerk.house.gov/evs/2025/roll163.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Nay",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-4984",
+        "title": "D.C. Robert F. Kennedy Memorial Stadium Campus Revitalization Act",
+        "heading": "Transfer of RFK stadium site to D.C.",
+        "topic": "Government and Elections",
+        "changes": "Transfers administrative control of the 174-acre RFK Memorial Stadium campus from the National Park Service to the District of Columbia for at least 99 years, with the District paying the costs of the transfer and federal ownership unchanged. The District may use it for a stadium, commercial and residential development, parks, and other public purposes, must designate at least 30 percent as parks and open space, and may not use federal funds for stadium purposes.",
+        "supporters": {
+          "text": "Supporters say the site is mostly parking lots and a stadium being demolished, and that the current lease bars commercial or residential use and expires in 2038. They say the transfer would let D.C. build housing, stores, and parks, create jobs and tax revenue, and move cleanup costs from the National Park Service to D.C., and that it does not require a stadium to be built.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-02-28/html/CREC-2024-02-28-pt1-PgH715.htm"
+        },
+        "opponents": {
+          "text": "Opponents say a transfer at no apparent cost gives D.C. an unfair advantage over Maryland in competing to host the Washington Commanders, and is a bad deal for federal taxpayers. They say they do not object to redevelopment, but that a free transfer largely for stadium purposes is not the best way to reach it.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-02-28/html/CREC-2024-02-28-pt1-PgH715.htm"
+        },
+        "status": "approved",
+        "yes_means": "The RFK stadium site should be transferred from the National Park Service to the District of Columbia.",
+        "no_means": "The RFK stadium site should not be transferred from the National Park Service to the District of Columbia."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2024,
+        "number": 56,
+        "url": "https://clerk.house.gov/evs/2024/roll056.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-6678",
+        "title": "Consequences for Social Security Fraud Act",
+        "heading": "Immigration consequences for Social Security, ID, COVID fraud",
+        "topic": "Immigration",
+        "changes": "Makes a noncitizen inadmissible and deportable if convicted of, or admitting to the acts of, certain Social Security number fraud, identification document fraud, or fraud involving COVID-19 small business loans and grants, or a conspiracy to commit one.",
+        "supporters": {
+          "text": "Supporters say the bill closes a gap in which, in some federal appeals courts, certain Social Security fraud offenses carry no immigration consequences, and speeds removal of noncitizens who fraudulently use Social Security numbers. They cite a 2020 GAO report identifying more than 2.9 million numbers with risk characteristics of misuse.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-01-31/html/CREC-2024-01-31-pt1-PgH333-2.htm"
+        },
+        "opponents": {
+          "text": "Opponents say Social Security fraud already makes a person deportable on conviction, and that the bill allows deportation based on an admission without a conviction, which they say would reach green card holders without a day in court. They say it would be easier to deport for these offenses than for murder or rape.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-01-31/html/CREC-2024-01-31-pt1-PgH333-2.htm"
+        },
+        "status": "approved",
+        "yes_means": "Noncitizens convicted of Social Security, identification or COVID loan fraud should be inadmissible and deportable.",
+        "no_means": "Noncitizens convicted of Social Security, identification or COVID loan fraud should not be inadmissible or deportable."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2024,
+        "number": 27,
+        "url": "https://clerk.house.gov/evs/2024/roll027.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Nay",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-7343",
+        "title": "Detain and Deport Illegal Aliens Who Assault Cops Act",
+        "heading": "Mandatory detention of noncitizens tied to assaults on officers",
+        "topic": "Immigration",
+        "changes": "Requires the Department of Homeland Security to take custody of a non-citizen who meets certain inadmissibility criteria and is arrested for, charged with, convicted of, or admits to assaulting a law enforcement officer, firefighter, or other first responder. It also directs the Government Accountability Office to report to Congress on how many such non-citizens were detained for assaulting officers in the previous five years, and requires DHS to report each year how many it detains under the bill.",
+        "supporters": {
+          "text": "Supporters say people in the country illegally who assault law enforcement officers must face consequences, and cite the January 2024 attack on two New York police officers in Times Square. They say the bill requires DHS to issue a detainer and take custody of people who are charged with, arrested for, convicted of, or admit to such an assault.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-05-15/html/CREC-2024-05-15-pt1-PgH3230-2.htm"
+        },
+        "opponents": {
+          "text": "Opponents say current law already requires detention and deportation for serious assaults on officers, and that this bill also reaches people with lawful status, such as DACA recipients, who are merely arrested or charged. They say assault is defined differently across jurisdictions, so minor contact could trigger mandatory detention, with no protection for those mistakenly arrested.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-05-15/html/CREC-2024-05-15-pt1-PgH3230-2.htm"
+        },
+        "status": "approved",
+        "yes_means": "Homeland Security should have to detain certain non-citizens arrested for or charged with assaulting a first responder.",
+        "no_means": "Homeland Security should not have to detain certain non-citizens arrested for or charged with assaulting a first responder."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2024,
+        "number": 204,
+        "url": "https://clerk.house.gov/evs/2024/roll204.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Nay",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "119-hr-3638",
+        "title": "Electric Supply Chain Act",
+        "heading": "Energy Department electric supply chain assessments",
+        "topic": "Energy",
+        "changes": "Directs the Department of Energy to carry out periodic assessments of trends, risks and vulnerabilities in the supply chain for generating and transmitting electricity, consult stakeholders across the industry, recommend ways to secure domestic supply chains, and report to Congress. The bill assigns the work to the Secretary of Energy without naming an office in the department.",
+        "supporters": {
+          "text": "Supporters say demand from manufacturing and data centers is rising while about 115 gigawatts of baseload power is expected to retire, so the department should regularly assess shortages of parts such as transformers and turbines. They say regular reports would help identify and address vulnerabilities, including reliance on China, before a crisis.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-12-10/pdf/CREC-2025-12-10-pt1-PgH5528.pdf"
+        },
+        "opponents": {
+          "text": "Opponents say the Energy Department has lost more than 3,500 staff and eliminated the office that would carry out these assessments, so adding duties before understanding its capacity is unwise. They say the bill adds busywork and does nothing about tariffs and canceled energy grants that they say harm the supply chain.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-12-10/pdf/CREC-2025-12-10-pt1-PgH5528.pdf"
+        },
+        "status": "approved",
+        "yes_means": "The Energy Department should be required to regularly assess electricity supply chain risks and report to Congress.",
+        "no_means": "The Energy Department should not be required to regularly assess electricity supply chain risks and report to Congress."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2025,
+        "number": 324,
+        "url": "https://clerk.house.gov/evs/2025/roll324.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Nay",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "119-hr-504",
+        "title": "Miccosukee Reserved Area Amendments Act",
+        "heading": "Adding Osceola Camp to Miccosukee Reserved Area",
+        "topic": "Civil Rights and Culture",
+        "changes": "Adds the Osceola Camp, a Tribal village in Everglades National Park, to the Miccosukee Reserved Area and directs the Interior Secretary, in consultation with the Tribe, to take actions to protect its structures from flooding. This vote was on passing the bill over the President's veto, which needed a two-thirds majority.",
+        "supporters": {
+          "text": "Supporters say the bill is narrow, was approved unanimously, and adds no new spending according to the Congressional Budget Office. They say the veto rested on unrelated immigration disputes rather than the bill's merits, and that the Tribe's village needs protection from flooding.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2026-01-08/html/CREC-2026-01-08-pt1-PgH208.htm"
+        },
+        "opponents": {
+          "text": "Opponents say, in the President's veto message, that the Osceola Camp was built in 1935 without authorization and that a prior plan to protect and replace its infrastructure could cost up to $14 million. They say it is not the federal government's job to pay to fix problems in an area the Tribe was never authorized to occupy, and that the Tribe has sought to obstruct immigration policies.",
+          "url": "https://www.govinfo.gov/content/pkg/DCPD-202501229/html/DCPD-202501229.htm"
+        },
+        "status": "approved",
+        "yes_means": "Osceola Camp should be added to the Miccosukee Reserved Area, over the President's veto.",
+        "no_means": "Osceola Camp should not be added to the Miccosukee Reserved Area, upholding the President's veto."
+      },
+      "incumbent_vote": "Nay",
+      "rollcall": {
+        "year": 2026,
+        "number": 8,
+        "url": "https://clerk.house.gov/evs/2026/roll008.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "119-hr-4294",
+        "title": "MAWS Act of 2026",
+        "heading": "Pilot program buying Chesapeake blue catfish",
+        "topic": "Environment and Public Lands",
+        "changes": "Directs the Secretary of Commerce, through NOAA, to run a two-year pilot program of cooperative agreements under which pet food, animal feed, and aquaculture feed makers buy blue catfish caught in the Chesapeake Bay watershed from watermen and seafood processors at a minimum price per pound set by the Secretary. Up to 15 percent of the funds may offset the cost of transporting the fish.",
+        "supporters": {
+          "text": "Supporters say invasive blue catfish are eating blue crabs, striped bass, and oysters, and that watermen cannot sell fish under 2 pounds or over 25 pounds for human consumption. Representative Wittman and Representative Elfreth say a pet and animal food market would give watermen a buyer for fish of every size while the human-consumption market keeps growing.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2026-03-16/html/CREC-2026-03-16-pt1-PgH2516.htm"
+        },
+        "opponents": {
+          "text": "Opponents say, in a letter from four Maryland blue catfish processors that Representative Self entered in the Record for Representative Harris, that the program would pay above-market prices for whole fish and strain supply for small processors. They say processors already sell byproducts for pet food at $0.10 to $0.20 per pound, and that pet food headlines would hurt the human-consumption market they built.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2026-03-16/html/CREC-2026-03-16-pt1-PgH2516.htm"
+        },
+        "status": "approved",
+        "yes_means": "The government should run a two-year pilot program to buy Chesapeake Bay blue catfish for animal feed.",
+        "no_means": "The government should not run a two-year pilot program to buy Chesapeake Bay blue catfish for animal feed."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2026,
+        "number": 88,
+        "url": "https://clerk.house.gov/evs/2026/roll088.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "119-hr-471",
+        "title": "Fix Our Forests Act",
+        "heading": "Wildfire risk reduction and forest management rules",
+        "topic": "Environment and Public Lands",
+        "changes": "Identifies the highest-risk firesheds, allows emergency actions to treat them, and raises categorical exclusions from environmental review for fuel-reduction projects to up to 10,000 acres. It also creates a community wildfire risk reduction program and a casualty assistance program for firefighters, and extends from 10 to 150 feet the distance from power lines within which hazard trees may be removed from federal land.",
+        "supporters": {
+          "text": "Supporters say, in remarks by sponsor Representative Westerman, that a forest management project now takes 3 to 5 years to complete and that the bill lets land managers act on the highest-risk areas before fires start. He says a 10,000-acre categorical exclusion, modeled on one used at Lake Tahoe, would cover an area the size of the Palisades fire with 2 exclusions instead of 8.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-01-23/html/CREC-2025-01-23-pt1-PgH312-6.htm"
+        },
+        "opponents": {
+          "text": "Opponents say, in remarks by Representative Huffman, that the bill leaves its wildfire programs unfunded, uses emergency authorities under the National Environmental Policy Act, and makes it harder for communities to learn about projects. Representative Beyer adds that it would overturn the Cottonwood court decision requiring agencies to reconsult on endangered species when new science emerges.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2025-01-23/html/CREC-2025-01-23-pt1-PgH312-6.htm"
+        },
+        "status": "approved",
+        "yes_means": "Federal wildfire fuel-reduction projects up to 10,000 acres should be exempt from full environmental review.",
+        "no_means": "Federal wildfire fuel-reduction projects up to 10,000 acres should not be exempt from full environmental review."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2025,
+        "number": 25,
+        "url": "https://clerk.house.gov/evs/2025/roll025.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Nay",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "119-hr-1329",
+        "title": "Smithsonian American Women's History Museum Act",
+        "heading": "Site and mission rules for women's history museum",
+        "topic": "Civil Rights and Culture",
+        "changes": "Designates the South Monument site on the National Mall for the museum, though the President may choose an alternative site within 180 days. It says the museum shall be dedicated to the history, achievements, and lived experiences of \"biological women\" and may not depict any \"biological male\" as a female, and it requires exhibits to reflect, to the extent practicable, a range of political viewpoints held by women.",
+        "supporters": {
+          "text": "Supporters say, in remarks by Representative Steil and Representative Malliotakis, that the bill puts a museum Congress authorized in 2020 on the Mall and adds guardrails against presenting history in a partisan way. Malliotakis says the dispute comes down to one sentence, and that a museum of women's history should have women in it.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2026-05-21/html/CREC-2026-05-21-pt1-PgH3692.htm"
+        },
+        "opponents": {
+          "text": "Opponents say, in remarks by Representative Morelle and Representative Takano, that the bill replaces a bipartisan site-only version with 231 cosponsors, drops the National Museum of the American Latino, and lets the President override the site. They say the biological women language excludes transgender women, and Takano says it could lead to challenges to other women.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2026-05-21/html/CREC-2026-05-21-pt1-PgH3692.htm"
+        },
+        "status": "approved",
+        "yes_means": "The women's history museum should be placed on the South Monument site and focus on biological women.",
+        "no_means": "The women's history museum should not be placed on the South Monument site or focus on biological women."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2026,
+        "number": 188,
+        "url": "https://clerk.house.gov/evs/2026/roll188.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Nay",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-7521",
+        "title": "Protecting Americans from Foreign Adversary Controlled Applications Act",
+        "heading": "Foreign-controlled apps like TikTok: sell or be prohibited",
+        "topic": "Technology and Infrastructure",
+        "changes": "Prohibits distributing, maintaining, or hosting an application operated by ByteDance or TikTok, or by another social media company controlled by a foreign adversary and designated by the President as a significant national security threat, unless it completes a qualified divestiture as determined by the President. The Department of Justice enforces it with civil penalties based on the number of users, and challenges go exclusively to the federal appeals court in Washington.",
+        "supporters": {
+          "text": "Supporters say, in remarks by Representative Rodgers and Representative Gallagher, that TikTok's owner ByteDance answers to the Chinese Communist Party, and that the bill lets TikTok separate from ByteDance and keep operating in the United States. Gallagher says it does not apply to American companies, cannot penalize individual users, and takes no position on the content of speech.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-03-13/html/CREC-2024-03-13-pt1-PgH1163-2.htm"
+        },
+        "opponents": {
+          "text": "Opponents say, in remarks by Representative Massie and Representative Kamlager-Dove, that the bill raises First Amendment concerns and gives the President broad power over which apps Americans can use. Kamlager-Dove says China could still reach user data through other platforms and data brokers, and Massie says it is written broadly enough to reach companies that are not foreign-controlled.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-03-13/html/CREC-2024-03-13-pt1-PgH1163-2.htm"
+        },
+        "status": "approved",
+        "yes_means": "TikTok and similar foreign-controlled apps should be prohibited in the U.S. unless they are sold.",
+        "no_means": "TikTok and similar foreign-controlled apps should still be allowed in the U.S. without being sold."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2024,
+        "number": 86,
+        "url": "https://clerk.house.gov/evs/2024/roll086.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "119-hr-7006",
+        "title": "Financial Services and General Government and National Security, Department of State, and Related Programs Appropriations Act, 2026",
+        "heading": "Two-bill funding package for fiscal 2026",
+        "topic": "Budget, Taxes and Economy",
+        "changes": "Makes appropriations for fiscal year 2026, which ends September 30, 2026, for the Treasury, the federal judiciary, and other general government agencies, and for the State Department and related national security programs.",
+        "supporters": {
+          "text": "Supporters say, in remarks by Representative Cole and Representative Alford, that the package funds the government through bipartisan, bicameral bills instead of an omnibus, cutting $9.3 billion in national security and State Department spending and cutting IRS enforcement. Alford says it keeps spending below the current continuing resolution and that the White House urged support.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2026-01-14/html/CREC-2026-01-14-pt1-PgH734.htm"
+        },
+        "opponents": {
+          "text": "Opponents say, in a statement by Representative Moulton, that he could not vote for a State Department funding bill that ratified the decision to shut down USAID, which he says has contributed to hundreds of thousands of deaths. He also says Democrats should not vote to fund the administration as if it were operating in good faith.",
+          "url": "https://moulton.house.gov/news/press-releases/vote-explainer-hr-7006-financial-services-and-general-government-and-national"
+        },
+        "status": "approved",
+        "yes_means": "Congress should fund the Treasury, federal courts, State Department and related programs for fiscal year 2026.",
+        "no_means": "Congress should not fund the Treasury, federal courts, State Department and related programs for fiscal year 2026."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2026,
+        "number": 28,
+        "url": "https://clerk.house.gov/evs/2026/roll028.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Yea",
+        "url": null
+      }
+    },
+    {
+      "card": {
+        "id": "118-hr-8446",
+        "title": "Critical Mineral Consistency Act of 2024",
+        "heading": "Adding Energy Department critical materials to USGS list",
+        "topic": "Energy",
+        "changes": "Requires the Interior Secretary, through the Geological Survey (USGS), to add every non-fuel material the Energy Secretary determines to be critical to the USGS critical minerals list within 45 days, and counts those materials as critical minerals under the Energy Act of 2020. When the House voted, the Energy Department's list included copper and the USGS list did not; USGS added copper in its November 2025 list.",
+        "supporters": {
+          "text": "Supporters say materials on the Energy Department's list, including copper, are not carried over to the Geological Survey's list, which they say confuses mineral producers and leaves those materials ineligible for expedited permitting. They say dozens of potential copper mines remain untapped because of federal regulation, and that without more domestic production the U.S. would rely on imports for 60 percent of its copper by 2035.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-11-14/html/CREC-2024-11-14-pt1-PgH5986-6.htm"
+        },
+        "opponents": {
+          "text": "Opponents say the Geological Survey's list is meant for minerals whose supply is at risk of disruption, and that copper is not at risk because the U.S. is a net exporter of it. They say listed minerals become eligible for tax credits, grants, and expedited permitting, which they say would limit public and tribal comment on new copper mines.",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2024-11-14/html/CREC-2024-11-14-pt1-PgH5986-6.htm"
+        },
+        "status": "approved",
+        "yes_means": "Materials the Energy Secretary deems critical should be added to the USGS critical minerals list.",
+        "no_means": "Materials the Energy Secretary deems critical should not be added to the USGS critical minerals list."
+      },
+      "incumbent_vote": "Yea",
+      "rollcall": {
+        "year": 2024,
+        "number": 462,
+        "url": "https://clerk.house.gov/evs/2024/roll462.xml"
+      },
+      "challenger": {
+        "source": "estimate",
+        "position": "Nay",
+        "url": null
+      }
+    }
+  ]
+}
