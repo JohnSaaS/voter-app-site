@@ -1,7 +1,7 @@
 import { pickBills, scoreIncumbent, scoreChallenger, scoreOther, scoreLine, sourceLine } from "./score.js";
 import { lookupDistrict, safeStorage, DISTRICT_IDS, STATE_CODE, COVERED } from "./district.js";
 import { recordCompletion } from "./counter.js";
-import { safeHref, compact, billLabel, cleanSaved, makeTapGuard, shortQuizLine } from "./util.js";
+import { safeHref, compact, billLabel, cleanSaved, makeTapGuard, shortQuizLine, isZipOnly } from "./util.js";
 
 const GROUPS = [
   { state: "42", heading: "Pennsylvania (Pittsburgh area)" },
@@ -109,6 +109,7 @@ function districtScreen(message) {
     if (lookingUp || go.disabled) return;
     const value = input.value;
     if (!value.trim()) { status.textContent = "Please type your street address."; return; }
+    if (isZipOnly(value)) { status.textContent = "Please type your full street address, not just a zip code. Example: 600 E 4th St, Charlotte, NC 28202"; return; }
     go.disabled = true;
     lookingUp = true;
     status.textContent = "Looking up your district...";
@@ -126,8 +127,8 @@ function districtScreen(message) {
   show(
     el("h2", { text: "Find your district" }),
     el("div", { class: "row" },
-      el("label", { for: "addr", text: "Your street address" }),
-      el("p", { id: "addr-help", text: "Include city and zip. Your address is sent to the U.S. Census Bureau only to find your district, and this site does not save it." }),
+      el("label", { for: "addr", text: "Your full street address" }),
+      el("p", { id: "addr-help", text: "Include street, city, and zip, for example 600 E 4th St, Charlotte, NC 28202. A zip code alone is not enough, because some zip codes are split between districts. Your address is sent to the U.S. Census Bureau only to find your district, and this site does not save it." }),
       input),
     el("div", { class: "row" }, go),
     status,

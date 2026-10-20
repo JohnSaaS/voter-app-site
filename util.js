@@ -53,3 +53,8 @@ export function shortQuizLine(n, max = 15) {
   if (!Number.isInteger(n) || n < 1 || n >= max) return null;
   return `These topics had ${n} ${n === 1 ? "bill" : "bills"} from this member's record.`;
 }
+
+// True when the input is only a zip code (5 or 9 digits). The geocoder needs a street address.
+export function isZipOnly(s) {
+  return typeof s === "string" && /^\s*\d{5}(-\d{4})?\s*$/.test(s);
+}
