@@ -45,6 +45,21 @@ export function scoreChallenger(answers, bills) {
   return { agree, total, bySource };
 }
 
+// Another candidate's stated positions. Counts only "said" entries; never estimates.
+export function scoreOther(bills, answers, otherEntries) {
+  let agreed = 0;
+  let counted = 0;
+  const entries = otherEntries || {};
+  for (const b of bills) {
+    const want = VOTE[answers[b.card.id]];
+    const e = entries[b.card.id];
+    if (!want || !e || e.source !== "said" || !e.position) continue;
+    counted++;
+    if (e.position === want) agreed++;
+  }
+  return { agreed, counted };
+}
+
 export function scoreLine(name, { agree, total }, estimated = false) {
   if (total === 0) {
     return estimated

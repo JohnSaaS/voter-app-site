@@ -1,9 +1,8 @@
 // Anonymous completion counter. Sends only the district; the server sets the date.
-import { safeStorage } from "./district.js";
+import { safeStorage, DISTRICT_IDS } from "./district.js";
 
 const URL = "https://wikeqozoeravyduqjvhm.supabase.co/rest/v1/voter_app_completions";
 const KEY = "sb_publishable_V3tX3AaJ2qM_o3hD7uvIdw_H9B7MyEt"; // publishable: designed to be public
-const DISTRICTS = ["PA-12", "PA-14", "PA-17"];
 
 function today() {
   const d = new Date();
@@ -18,7 +17,7 @@ const LOCAL_HOSTS = ["localhost", "127.0.0.1", "[::1]"];
 export function recordCompletion(district, fetchFn = fetch, storage = safeStorage, host = (typeof location !== "undefined" ? location.hostname : "")) {
   try {
     if (!host || LOCAL_HOSTS.includes(host) || host.endsWith(".localhost")) return;
-    if (!DISTRICTS.includes(district)) return;
+    if (!DISTRICT_IDS.includes(district)) return;
     const key = `va.counted.${district}.${today()}`;
     try {
       if (storage.getItem(key)) return;

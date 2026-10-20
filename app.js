@@ -1,9 +1,12 @@
-import { pickBills, scoreIncumbent, scoreChallenger, scoreLine, sourceLine } from "./score.js";
-import { lookupDistrict, safeStorage } from "./district.js";
+import { pickBills, scoreIncumbent, scoreChallenger, scoreOther, scoreLine, sourceLine } from "./score.js";
+import { lookupDistrict, safeStorage, DISTRICT_IDS, STATE_CODE, COVERED } from "./district.js";
 import { recordCompletion } from "./counter.js";
 import { safeHref, compact, billLabel, cleanSaved, makeTapGuard, shortQuizLine } from "./util.js";
 
-const DISTRICT_IDS = ["PA-12", "PA-14", "PA-17"];
+const GROUPS = [
+  { state: "42", heading: "Pennsylvania (Pittsburgh area)" },
+  { state: "37", heading: "North Carolina (Charlotte area)" },
+];
 const KEY_DISTRICT = "va.district";
 const KEY_ANSWERS = "va.answers";
 const KEY_TOPICS = "va.topics";
@@ -68,7 +71,7 @@ function renderFooter(pulled) {
   footer.replaceChildren(
     el("p", {
       text:
-        "Made by an independent volunteer in Pittsburgh. Not affiliated with any candidate or party. " +
+        "Made by an independent volunteer. Not affiliated with any candidate or party. " +
         "Votes from the U.S. House Clerk; bill summaries from the Congressional Research Service. " +
         `Data pulled ${pulled}. ` +
         "This site stores no addresses or IP addresses, and your answers stay in your own browser. The hosting services keep their own standard logs.",
@@ -114,7 +117,7 @@ function districtScreen(message) {
     go.disabled = false;
     lookingUp = false;
     if (id) { chooseDistrict(id); return; }
-    status.textContent = "We could not match that address to PA-12, PA-14, or PA-17. Please pick your district below.";
+    status.textContent = "We could not match that address to a district this site covers. Please pick your district below.";
     showPicker();
   };
   go.addEventListener("click", run);
@@ -134,15 +137,22 @@ function districtScreen(message) {
   if (message) showPicker();
 }
 
+function districtLabel(id) {
+  const d = data[id];
+  const base = `${id.slice(0, 2)} District ${id.slice(3)}`;
+  return d && d.incumbent ? `${base}: ${d.incumbent.name}` : base;
+}
+
 function renderPicker(box) {
-  const items = DISTRICT_IDS.map((id) => {
-    const d = data[id];
-    const label = d ? `${id.replace("PA-", "District ")}: ${d.incumbent.name}` : id;
-    return el("li", {}, el("button", { type: "button", class: "secondary", text: label, onclick: () => chooseDistrict(id) }));
+  const groups = GROUPS.flatMap((g) => {
+    const ids = COVERED[g.state].map((n) => `${STATE_CODE[g.state]}-${n}`);
+    const items = ids.map((id) =>
+      el("li", {}, el("button", { type: "button", class: "secondary", text: districtLabel(id), onclick: () => chooseDistrict(id) })));
+    return [el("h4", { text: g.heading }), el("ul", { class: "plain" }, ...items)];
   });
   box.replaceChildren(
     el("h3", { text: "Pick your district" }),
-    el("ul", { class: "plain" }, ...items),
+    ...groups,
     el("p", {}, el("a", { href: HOUSE_URL, target: "_blank", rel: "noopener", text: "Not sure? Look up your representative on house.gov" }))
   );
   box.querySelectorAll("ul").forEach((u) => { u.style.listStyle = "none"; u.style.padding = "0"; });
@@ -267,6 +277,7 @@ function resultsScreen() {
   const ch = d.challenger;
   const inScore = scoreIncumbent(answers, bills);
   const chScore = scoreChallenger(answers, bills);
+  const others = Array.isArray(d.others) ? d.others : [];
   // Once per browser per district per day (guarded in counter.js), so Add topics and rescoring do not recount.
   if (inScore.total >= 1) recordCompletion(district);
 
@@ -290,10 +301,18 @@ function resultsScreen() {
     el("p", { class: "score", text: scoreLine(ch.name, chScore, true) }),
     chScore.total > 0 ? el("p", { text: sourceLine(chScore.bySource) }) : null);
 
+  const otherBlocks = others.map((o) => {
+    const sc = scoreOther(bills, answers, o.entries);
+    return el("section", { class: "challenger", "aria-label": `Also on the ballot: ${o.name}` },
+      el("p", { text: `Also on the ballot: ${o.name} (${o.party}).` }),
+      sc.counted >= 1 ? el("p", { text: `${o.name}'s stated positions: you agreed on ${sc.agreed} of ${sc.counted}.` }) : null);
+  });
+
   show(
     el("h2", { text: "Your results" }),
     el("p", { class: "score", text: scoreLine(inc.name, inScore) }),
     chBlock,
+    ...otherBlocks,
     allAnswered ? el("p", { text: "You've answered every bill in these topics." }) : null,
     shortQuizLine(quizCount) ? el("p", { text: shortQuizLine(quizCount) }) : null,
     inc.note ? el("p", { class: "note", text: inc.note }) : null,

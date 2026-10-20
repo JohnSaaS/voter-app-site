@@ -2,7 +2,9 @@
 // The address is used only to build the request URL. It is never stored or logged.
 
 const CENSUS = "https://geocoding.geo.census.gov/geocoder/geographies/onelineaddress";
-const DISTRICTS = new Set(["12", "14", "17"]);
+export const COVERED = { "42": ["12", "14", "17"], "37": ["8", "12", "14"] };
+export const STATE_CODE = { "42": "PA", "37": "NC" };
+export const DISTRICT_IDS = Object.keys(COVERED).flatMap((st) => COVERED[st].map((n) => `${STATE_CODE[st]}-${n}`));
 
 export function buildUrl(address, callbackName) {
   return (
@@ -44,11 +46,12 @@ function parse(data) {
   if (!geos) return null;
   const key = Object.keys(geos).find((k) => /Congressional Districts/.test(k));
   const row = key && Array.isArray(geos[key]) ? geos[key][0] : null;
-  if (!row || row.STATE !== "42" || !DISTRICTS.has(row.BASENAME)) return null;
-  return `PA-${row.BASENAME}`;
+  if (!row || !Object.prototype.hasOwnProperty.call(COVERED, row.STATE)) return null;
+  if (!COVERED[row.STATE].includes(row.BASENAME)) return null;
+  return `${STATE_CODE[row.STATE]}-${row.BASENAME}`;
 }
 
-// loadFn(url) -> Promise<object>. Returns "PA-12" | "PA-14" | "PA-17" | null.
+// loadFn(url) -> Promise<object>. Returns one of DISTRICT_IDS (PA-12, PA-14, PA-17, NC-8, NC-12, NC-14) or null.
 export async function lookupDistrict(address, loadFn = loadJsonp, timeoutMs = 12000) {
   if (typeof address !== "string" || address.trim() === "") return null;
   let timer;
